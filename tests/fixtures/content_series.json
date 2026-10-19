@@ -1,0 +1,1577 @@
+{
+ "apiVersion": "2.0",
+ "data": {
+  "category": [
+   {
+    "allowContentPhoto": 1,
+    "analyticsId": "UA-21111330-48",
+    "backgroundPhotoId": null,
+    "color": "#000000",
+    "commenting": 2,
+    "contentVisible": 0,
+    "coverPhotoId": null,
+    "coverPhotoUrl": null,
+    "depth": 3,
+    "disableScanpix": 0,
+    "domain": "jupiter.err.ee",
+    "domainType": "vod",
+    "eMail": "",
+    "fullCoverPhoto": null,
+    "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+    "host": null,
+    "id": 4423,
+    "idec": "000000",
+    "isPodcast": 0,
+    "lang": "1",
+    "lead": "",
+    "lft": 3002,
+    "musicStyle": 1,
+    "name": "Komöödia",
+    "newsSiteUrl": "",
+    "parentId": 4136,
+    "passive": 0,
+    "photoId": "2350764",
+    "postToSocialmedia": 0,
+    "radiomanId": "",
+    "relativePath": "Jupiter > Video > Sarjad > Komöödia",
+    "rgt": 3003,
+    "rootCategoryId": 3905,
+    "slogan": null,
+    "springId": null,
+    "type": 1,
+    "typologyPath": "jupiter/video/sarjad/komoodia",
+    "url": "sarjad-komoodia"
+   },
+   {
+    "allowContentPhoto": 1,
+    "analyticsId": "UA-21111330-48",
+    "backgroundPhotoId": null,
+    "color": "#000000",
+    "commenting": 2,
+    "contentVisible": 0,
+    "coverPhotoId": null,
+    "coverPhotoUrl": null,
+    "depth": 3,
+    "disableScanpix": 0,
+    "domain": "jupiter.err.ee",
+    "domainType": "vod",
+    "eMail": "",
+    "fullCoverPhoto": null,
+    "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+    "host": null,
+    "id": 4503,
+    "idec": "000000",
+    "isPodcast": 0,
+    "lang": "1",
+    "lead": "",
+    "lft": 3026,
+    "musicStyle": 1,
+    "name": "Meelelahutus",
+    "newsSiteUrl": "",
+    "parentId": 4498,
+    "passive": 0,
+    "photoId": "2350764",
+    "postToSocialmedia": 0,
+    "radiomanId": "",
+    "relativePath": "Jupiter > Video > Teemad > Meelelahutus",
+    "rgt": 3027,
+    "rootCategoryId": 3905,
+    "slogan": null,
+    "springId": null,
+    "type": 1,
+    "typologyPath": "jupiter/video/teemad/meelelahutus",
+    "url": "meelelahutus"
+   }
+  ],
+  "categoryContents": [],
+  "futureContent": [],
+  "mainContent": {
+   "anotherDomainContent": true,
+   "body": "",
+   "bodyGalleries": [],
+   "bodyMedias": [],
+   "bodyPhotos": [],
+   "bodyTrustedHtmls": [],
+   "canonicalUrl": "https://jupiter.err.ee/924441",
+   "clips": [],
+   "color": "#000000",
+   "commenting": 2,
+   "contentOrder": 0,
+   "country": "Eesti",
+   "created": 1553778000,
+   "editor": "",
+   "episode": 1,
+   "fancyUrl": "vanad-ja-kobedad",
+   "formatedTimes": {
+    "created": "28.03.2019 15:00",
+    "dayShortName": "R",
+    "programStart": "09.10",
+    "publicStart": "28.03.2019 15:00",
+    "scheduleStart": "09.10 23:45",
+    "shortScheduleStart": "09.10",
+    "updated": "02.04.2019 13:00"
+   },
+   "galleries": [],
+   "heading": "Vanad ja kobedad",
+   "horizontalPhotos": [
+    {
+     "created": 1554202015,
+     "format": "jpg",
+     "id": 620333,
+     "ord": 0,
+     "photoTypes": {
+      "1": {
+       "h": 80,
+       "type": 1,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hcc51t1.jpg",
+       "w": 120
+      },
+      "11": {
+       "h": 60,
+       "type": 11,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hd205t11.jpg",
+       "w": 96
+      },
+      "15": {
+       "h": 0,
+       "type": 15,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hbfd2t15.jpg",
+       "w": 800
+      },
+      "16": {
+       "h": 0,
+       "type": 16,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hb5fet16.jpg",
+       "w": 1000
+      },
+      "2": {
+       "h": 1080,
+       "type": 2,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h4202t2.jpg",
+       "w": 1920
+      },
+      "22": {
+       "h": 195,
+       "type": 22,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h4ecat22.jpg",
+       "w": 312
+      },
+      "24": {
+       "h": 0,
+       "type": 24,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hd3b0t24.jpg",
+       "w": 672
+      },
+      "26": {
+       "h": 225,
+       "type": 26,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hc2d4t26.jpg",
+       "w": 400
+      },
+      "37": {
+       "h": 0,
+       "type": 37,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h8dadt37.jpg",
+       "w": 1440
+      },
+      "44": {
+       "h": 200,
+       "type": 44,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h0a45t44.jpg",
+       "w": 200
+      },
+      "46": {
+       "h": 1920,
+       "type": 46,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h9b5ft46.jpg",
+       "w": 1920
+      },
+      "47": {
+       "h": 1440,
+       "type": 47,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h2893t47.jpg",
+       "w": 1920
+      },
+      "48": {
+       "h": 810,
+       "type": 48,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333ha590t48.jpg",
+       "w": 1440
+      },
+      "49": {
+       "h": 80,
+       "type": 49,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h7fc5t49.jpg",
+       "w": 0
+      },
+      "52": {
+       "h": 16,
+       "type": 52,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hd9fet52.jpg",
+       "w": 32
+      },
+      "6": {
+       "h": 500,
+       "type": 6,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h92d9t6.jpg",
+       "w": 800
+      },
+      "60": {
+       "h": 270,
+       "type": 60,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h4d03t60.jpg",
+       "w": 180
+      },
+      "61": {
+       "h": 432,
+       "type": 61,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h9987t61.jpg",
+       "w": 768
+      },
+      "62": {
+       "h": 1030,
+       "type": 62,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hd8abt62.jpg",
+       "w": 1648
+      },
+      "64": {
+       "h": 515,
+       "type": 64,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h74e0t64.jpg",
+       "w": 824
+      },
+      "65": {
+       "h": 370,
+       "type": 65,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h43b0t65.jpg",
+       "w": 592
+      },
+      "66": {
+       "h": 185,
+       "type": 66,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hfb31t66.jpg",
+       "w": 296
+      },
+      "67": {
+       "h": 168,
+       "type": 67,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333he4eet67.jpg",
+       "w": 168
+      },
+      "68": {
+       "h": 84,
+       "type": 68,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h2314t68.jpg",
+       "w": 84
+      },
+      "69": {
+       "h": 980,
+       "type": 69,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h18eat69.jpg",
+       "w": 1568
+      },
+      "70": {
+       "h": 490,
+       "type": 70,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h180bt70.jpg",
+       "w": 784
+      },
+      "71": {
+       "h": 1270,
+       "type": 71,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h67eft71.jpg",
+       "w": 2032
+      },
+      "72": {
+       "h": 635,
+       "type": 72,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hbc2et72.jpg",
+       "w": 1016
+      },
+      "8": {
+       "h": 250,
+       "type": 8,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h28b0t8.jpg",
+       "w": 400
+      },
+      "80": {
+       "h": 600,
+       "type": 80,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h0859t80.jpg",
+       "w": 400
+      }
+     },
+     "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+     "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+     "type": 0,
+     "version": 0
+    }
+   ],
+   "id": 924441,
+   "iframeMediaUrl": "",
+   "lastChangedBy": 15920,
+   "lead": "<p>Seriaal, mis ei taha olla naljakas, vaid kus lihtsalt ei panda kaamerat kinni, kui juhtumisi midagi naljakat hakkab juhtuma. Läbi põhjaliku filtri ja kultuurilise kontrolli on siia lubatud vaid sellised tegelased, kelles iga eestlane tunneb ära oma naabri. Seega pole kedagi ega midagi välja mõeldud, sellegipoolest ei ole tegu dokumentalistikaga, pigem võiks žanrimääratluseks olla \"sotsioloogiline rekonstruktsioon\".</p>\n<p>Henrik Normann ja Madis Milling esitlevad: Valdur ja Maie, Väino ning Silvi on teie ees!</p>\n<p>Režissöör Rando Pettai, stsenarist Peep Pedmansson.</p>",
+   "makers": [
+    {
+     "name": "Kaupo Karelson",
+     "type": "Produtsent",
+     "typeId": 17
+    },
+    {
+     "name": "Henrik Normann",
+     "type": "Autorid",
+     "typeId": 15
+    },
+    {
+     "name": "Madis Milling",
+     "type": "Autorid",
+     "typeId": 15
+    },
+    {
+     "name": "Henrik Normann",
+     "type": "Osatäitjad",
+     "typeId": 9
+    },
+    {
+     "name": "Madis Milling",
+     "type": "Osatäitjad",
+     "typeId": 9
+    },
+    {
+     "name": "Peep Pedmanson",
+     "type": "Stsenarist",
+     "typeId": 18
+    },
+    {
+     "name": "Indrek Ibrus",
+     "type": "Toimetaja",
+     "typeId": 14
+    },
+    {
+     "name": "Rando Pettai",
+     "type": "Režissöör",
+     "typeId": 10
+    }
+   ],
+   "medias": [
+    {
+     "4k": 0,
+     "bodyEn": null,
+     "bodyEt": null,
+     "bodyRu": null,
+     "cacheIndex": 0,
+     "catchupDays": 63258,
+     "embedDisabled": 0,
+     "fhd": 1,
+     "file": "2000-080243-0001_0004_XHD_VANAD-JA-KOBEDAD_KUREJAHT_ERR.mp4",
+     "filename": "2000-080243-0001_0004_XHD_VANAD-JA-KOBEDAD_KUREJAHT_ERR.mp4",
+     "folder": "vod",
+     "hd": 1,
+     "headingEn": "",
+     "headingEt": "",
+     "headingRu": "",
+     "id": 1529233,
+     "isPg": false,
+     "jwt": null,
+     "ld": 0,
+     "licenseServerUrl": {
+      "fairPlay": "https://drm-fairplay-licensing.axprod.net/AcquireLicense",
+      "playReady": "https://drm-playready-licensing.axprod.net/AcquireLicense",
+      "widevine": "https://drm-widevine-licensing.axprod.net/AcquireLicense"
+     },
+     "mediaHash": "0c7584e3f9a6995c341b774aeeb86987",
+     "mediaId": "0c7584e3f9a6995c341b774aeeb86987",
+     "mediaInfo": {
+      "aspectRatio": "16:9",
+      "duration": "1682"
+     },
+     "mediaRadiomanId": 0,
+     "ord": 0,
+     "periods": [
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1643752800,
+       "vodReqId": 10617320829
+      },
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1653933453,
+       "vodReqId": 10666549256
+      },
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1653947426,
+       "vodReqId": 10666549257
+      },
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1685743249,
+       "vodReqId": 10835722242
+      },
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1685802444,
+       "vodReqId": 10835722243
+      },
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1721821910,
+       "vodReqId": 11033528251
+      },
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1721856299,
+       "vodReqId": 11033528252
+      },
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1752129037,
+       "vodReqId": 11202274658
+      },
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1752188340,
+       "vodReqId": 11202274659
+      },
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1785912427,
+       "vodReqId": 11362166656
+      },
+      {
+       "publicEnd": 7258197600,
+       "publicStart": 1791580319,
+       "vodReqId": 11376774992
+      }
+     ],
+     "photoId": 0,
+     "photos": [],
+     "podcastUrl": "",
+     "publicEnd": 0,
+     "restrictions": {
+      "drm": false,
+      "geoBlock": false
+     },
+     "sd": 1,
+     "skd": "",
+     "src": {
+      "dash": "//vod.err.ee/dash/vod/0c7584e3f9a6995c341b774aeeb86987/2/v/manifest.mpd",
+      "dashNew": "//vod.err.ee/dash/vod/0c7584e3f9a6995c341b774aeeb86987/2/v/manifest.mpd",
+      "dashNoSub": "//vod.err.ee/dash/vod/0c7584e3f9a6995c341b774aeeb86987/2/v/nosub/manifest.mpd",
+      "file": "//vod.err.ee/file/vod/0c7584e3f9a6995c341b774aeeb86987.mp4",
+      "hls": "//vod.err.ee/hls/vod/0c7584e3f9a6995c341b774aeeb86987/2/v/master.m3u8",
+      "hls2": "//vod.err.ee/hls/vod/0c7584e3f9a6995c341b774aeeb86987/2/v/master.m3u8",
+      "hlsNew": "//vod.err.ee/hls/vod/0c7584e3f9a6995c341b774aeeb86987/2/v/master.m3u8",
+      "hlsNoSub": "//vod.err.ee/hls/vod/0c7584e3f9a6995c341b774aeeb86987/2/v/nosub/master.m3u8",
+      "id": 1529233,
+      "ratio": "16:9"
+     },
+     "subtitles": [
+      {
+       "exported": 1,
+       "filename": "257470_VA.vtt",
+       "id": 0,
+       "name": "eesti",
+       "src": "https://services.err.ee/subtitles/file/257470/257470_VA.vtt",
+       "srclang": "VA",
+       "subId": 257470,
+       "version": 1
+      }
+     ],
+     "type": "video",
+     "version": 1,
+     "versionId": 10645200400
+    }
+   ],
+   "originalTitle": "",
+   "parentContentId": 1038533,
+   "parentContentPath": "[1038533]",
+   "photos": [
+    {
+     "created": 1554202015,
+     "format": "jpg",
+     "id": 620333,
+     "ord": 0,
+     "photoTypes": {
+      "1": {
+       "h": 80,
+       "type": 1,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hcc51t1.jpg",
+       "w": 120
+      },
+      "11": {
+       "h": 60,
+       "type": 11,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hd205t11.jpg",
+       "w": 96
+      },
+      "15": {
+       "h": 0,
+       "type": 15,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hbfd2t15.jpg",
+       "w": 800
+      },
+      "16": {
+       "h": 0,
+       "type": 16,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hb5fet16.jpg",
+       "w": 1000
+      },
+      "2": {
+       "h": 1080,
+       "type": 2,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h4202t2.jpg",
+       "w": 1920
+      },
+      "22": {
+       "h": 195,
+       "type": 22,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h4ecat22.jpg",
+       "w": 312
+      },
+      "24": {
+       "h": 0,
+       "type": 24,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hd3b0t24.jpg",
+       "w": 672
+      },
+      "26": {
+       "h": 225,
+       "type": 26,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hc2d4t26.jpg",
+       "w": 400
+      },
+      "37": {
+       "h": 0,
+       "type": 37,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h8dadt37.jpg",
+       "w": 1440
+      },
+      "44": {
+       "h": 200,
+       "type": 44,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h0a45t44.jpg",
+       "w": 200
+      },
+      "46": {
+       "h": 1920,
+       "type": 46,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h9b5ft46.jpg",
+       "w": 1920
+      },
+      "47": {
+       "h": 1440,
+       "type": 47,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h2893t47.jpg",
+       "w": 1920
+      },
+      "48": {
+       "h": 810,
+       "type": 48,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333ha590t48.jpg",
+       "w": 1440
+      },
+      "49": {
+       "h": 80,
+       "type": 49,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h7fc5t49.jpg",
+       "w": 0
+      },
+      "52": {
+       "h": 16,
+       "type": 52,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hd9fet52.jpg",
+       "w": 32
+      },
+      "6": {
+       "h": 500,
+       "type": 6,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h92d9t6.jpg",
+       "w": 800
+      },
+      "60": {
+       "h": 270,
+       "type": 60,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h4d03t60.jpg",
+       "w": 180
+      },
+      "61": {
+       "h": 432,
+       "type": 61,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h9987t61.jpg",
+       "w": 768
+      },
+      "62": {
+       "h": 1030,
+       "type": 62,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hd8abt62.jpg",
+       "w": 1648
+      },
+      "64": {
+       "h": 515,
+       "type": 64,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h74e0t64.jpg",
+       "w": 824
+      },
+      "65": {
+       "h": 370,
+       "type": 65,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h43b0t65.jpg",
+       "w": 592
+      },
+      "66": {
+       "h": 185,
+       "type": 66,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hfb31t66.jpg",
+       "w": 296
+      },
+      "67": {
+       "h": 168,
+       "type": 67,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333he4eet67.jpg",
+       "w": 168
+      },
+      "68": {
+       "h": 84,
+       "type": 68,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h2314t68.jpg",
+       "w": 84
+      },
+      "69": {
+       "h": 980,
+       "type": 69,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h18eat69.jpg",
+       "w": 1568
+      },
+      "70": {
+       "h": 490,
+       "type": 70,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h180bt70.jpg",
+       "w": 784
+      },
+      "71": {
+       "h": 1270,
+       "type": 71,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h67eft71.jpg",
+       "w": 2032
+      },
+      "72": {
+       "h": 635,
+       "type": 72,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333hbc2et72.jpg",
+       "w": 1016
+      },
+      "8": {
+       "h": 250,
+       "type": 8,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h28b0t8.jpg",
+       "w": 400
+      },
+      "80": {
+       "h": 600,
+       "type": 80,
+       "url": "https://s.err.ee/photo/crop/2019/04/02/620333h0859t80.jpg",
+       "w": 400
+      }
+     },
+     "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+     "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+     "type": 0,
+     "version": 0
+    }
+   ],
+   "polls": [],
+   "primaryCategoryId": 4423,
+   "progId": 10009790789,
+   "publicStart": 1553778000,
+   "radiomanId": 0,
+   "relatedRadiomanIds": [],
+   "rootCategoryId": 3905,
+   "rootContentId": 1038533,
+   "scheduleStart": 1791578700,
+   "season": 1,
+   "seriesType": 0,
+   "squarePhotos": [],
+   "statsHeading": "Vanad ja kobedad H1 O1",
+   "statsSeriesTitle": "Vanad ja kobedad",
+   "subHeading": "Kurejaht",
+   "txReqId": 10189233407,
+   "type": "episode",
+   "updated": 1554199200,
+   "url": "https://jupiter.err.ee/924441/vanad-ja-kobedad",
+   "verticalPhotos": [
+    {
+     "created": 1721380032,
+     "format": "jpg",
+     "id": 2478484,
+     "ord": 0,
+     "photoTypes": {
+      "1": {
+       "h": 80,
+       "type": 1,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484heae9t1.jpg",
+       "w": 120
+      },
+      "11": {
+       "h": 60,
+       "type": 11,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h3077t11.jpg",
+       "w": 96
+      },
+      "15": {
+       "h": 0,
+       "type": 15,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h5a53t15.jpg",
+       "w": 800
+      },
+      "16": {
+       "h": 0,
+       "type": 16,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h3b42t16.jpg",
+       "w": 1000
+      },
+      "2": {
+       "h": 1080,
+       "type": 2,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h4f0ft2.jpg",
+       "w": 1920
+      },
+      "22": {
+       "h": 195,
+       "type": 22,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h1dd4t22.jpg",
+       "w": 312
+      },
+      "24": {
+       "h": 0,
+       "type": 24,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484hcc13t24.jpg",
+       "w": 672
+      },
+      "26": {
+       "h": 225,
+       "type": 26,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484hf8b6t26.jpg",
+       "w": 400
+      },
+      "37": {
+       "h": 0,
+       "type": 37,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h4f0bt37.jpg",
+       "w": 1440
+      },
+      "44": {
+       "h": 200,
+       "type": 44,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h8800t44.jpg",
+       "w": 200
+      },
+      "46": {
+       "h": 1920,
+       "type": 46,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h4116t46.jpg",
+       "w": 1920
+      },
+      "47": {
+       "h": 1440,
+       "type": 47,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h6613t47.jpg",
+       "w": 1920
+      },
+      "48": {
+       "h": 810,
+       "type": 48,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h4addt48.jpg",
+       "w": 1440
+      },
+      "49": {
+       "h": 80,
+       "type": 49,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h48a4t49.jpg",
+       "w": 0
+      },
+      "52": {
+       "h": 16,
+       "type": 52,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h0ae6t52.jpg",
+       "w": 32
+      },
+      "6": {
+       "h": 500,
+       "type": 6,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h5240t6.jpg",
+       "w": 800
+      },
+      "60": {
+       "h": 270,
+       "type": 60,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484hfe26t60.jpg",
+       "w": 180
+      },
+      "61": {
+       "h": 432,
+       "type": 61,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h3d7bt61.jpg",
+       "w": 768
+      },
+      "62": {
+       "h": 1030,
+       "type": 62,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h3c29t62.jpg",
+       "w": 1648
+      },
+      "64": {
+       "h": 515,
+       "type": 64,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h5c97t64.jpg",
+       "w": 824
+      },
+      "65": {
+       "h": 370,
+       "type": 65,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h2b05t65.jpg",
+       "w": 592
+      },
+      "66": {
+       "h": 185,
+       "type": 66,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h9bc1t66.jpg",
+       "w": 296
+      },
+      "67": {
+       "h": 168,
+       "type": 67,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h202ct67.jpg",
+       "w": 168
+      },
+      "68": {
+       "h": 84,
+       "type": 68,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484hee14t68.jpg",
+       "w": 84
+      },
+      "69": {
+       "h": 980,
+       "type": 69,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484h72d1t69.jpg",
+       "w": 1568
+      },
+      "70": {
+       "h": 490,
+       "type": 70,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484hfe5dt70.jpg",
+       "w": 784
+      },
+      "71": {
+       "h": 1270,
+       "type": 71,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484hc79bt71.jpg",
+       "w": 2032
+      },
+      "72": {
+       "h": 635,
+       "type": 72,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484hf264t72.jpg",
+       "w": 1016
+      },
+      "8": {
+       "h": 250,
+       "type": 8,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484ha9a5t8.jpg",
+       "w": 400
+      },
+      "80": {
+       "h": 600,
+       "type": 80,
+       "url": "https://s.err.ee/photo/crop/2024/07/19/2478484hbd3ct80.jpg",
+       "w": 400
+      }
+     },
+     "photoUrlBase": "https://s.err.ee/photo/crop/2024/07/19/2478484h9461.jpg",
+     "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/07/19/2478484h9461.jpg",
+     "type": 1,
+     "version": 0
+    }
+   ],
+   "vodSiteContent": "video",
+   "vodSiteDomain": "jupiter.err.ee",
+   "vodSiteUrl": "https://jupiter.err.ee/924441/vanad-ja-kobedad",
+   "year": "2000"
+  },
+  "pageType": "series",
+  "seasonList": {
+   "contentOrder": "asc",
+   "items": [
+    {
+     "active": true,
+     "contents": [
+      {
+       "active": true,
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/924441",
+       "catchupDays": 63258,
+       "episode": 1,
+       "fancyUrl": "vanad-ja-kobedad",
+       "heading": "Vanad ja kobedad",
+       "horizontalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 0,
+         "version": 0
+        }
+       ],
+       "id": 924441,
+       "parentContentPath": "[1038533]",
+       "photos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 0,
+         "version": 0
+        }
+       ],
+       "primaryCategory": {
+        "allowContentPhoto": 1,
+        "analyticsId": "UA-21111330-48",
+        "backgroundPhotoId": null,
+        "color": "#000000",
+        "commenting": 2,
+        "contentVisible": 0,
+        "coverPhotoId": null,
+        "coverPhotoUrl": null,
+        "depth": 3,
+        "disableScanpix": 0,
+        "domain": "jupiter.err.ee",
+        "domainType": "vod",
+        "eMail": "",
+        "fullCoverPhoto": null,
+        "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+        "host": null,
+        "id": 4423,
+        "idec": "000000",
+        "isPodcast": 0,
+        "lang": "1",
+        "lead": "",
+        "lft": 3002,
+        "musicStyle": 1,
+        "name": "Komöödia",
+        "newsSiteUrl": "",
+        "parentId": 4136,
+        "passive": 0,
+        "photoId": "2350764",
+        "postToSocialmedia": 0,
+        "radiomanId": "",
+        "relativePath": "Jupiter > Video > Sarjad > Komöödia",
+        "rgt": 3003,
+        "rootCategoryId": 3905,
+        "slogan": null,
+        "springId": null,
+        "type": 1,
+        "url": "sarjad-komoodia"
+       },
+       "primaryCategoryId": 4423,
+       "publicStart": 1553778000,
+       "rootCategoryId": 3905,
+       "scheduleStart": 1791578700,
+       "season": 1,
+       "squarePhotos": [],
+       "subHeading": "Kurejaht",
+       "type": "episode",
+       "updated": 1554199200,
+       "url": "https://jupiter.err.ee/924441/vanad-ja-kobedad",
+       "verticalPhotos": []
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/926685",
+       "catchupDays": 63258,
+       "episode": 2,
+       "fancyUrl": "vanad-ja-kobedad",
+       "heading": "Vanad ja kobedad",
+       "horizontalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 0,
+         "version": 0
+        }
+       ],
+       "id": 926685,
+       "parentContentPath": "[1038533]",
+       "photos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 0,
+         "version": 0
+        }
+       ],
+       "primaryCategory": {
+        "allowContentPhoto": 1,
+        "analyticsId": "UA-21111330-48",
+        "backgroundPhotoId": null,
+        "color": "#000000",
+        "commenting": 2,
+        "contentVisible": 0,
+        "coverPhotoId": null,
+        "coverPhotoUrl": null,
+        "depth": 3,
+        "disableScanpix": 0,
+        "domain": "jupiter.err.ee",
+        "domainType": "vod",
+        "eMail": "",
+        "fullCoverPhoto": null,
+        "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+        "host": null,
+        "id": 4423,
+        "idec": "000000",
+        "isPodcast": 0,
+        "lang": "1",
+        "lead": "",
+        "lft": 3002,
+        "musicStyle": 1,
+        "name": "Komöödia",
+        "newsSiteUrl": "",
+        "parentId": 4136,
+        "passive": 0,
+        "photoId": "2350764",
+        "postToSocialmedia": 0,
+        "radiomanId": "",
+        "relativePath": "Jupiter > Video > Sarjad > Komöödia",
+        "rgt": 3003,
+        "rootCategoryId": 3905,
+        "slogan": null,
+        "springId": null,
+        "type": 1,
+        "url": "sarjad-komoodia"
+       },
+       "primaryCategoryId": 4423,
+       "publicStart": 1554379200,
+       "rootCategoryId": 3905,
+       "scheduleStart": 1792183500,
+       "season": 1,
+       "squarePhotos": [],
+       "subHeading": "Kartulid",
+       "type": "episode",
+       "updated": 1555534500,
+       "url": "https://jupiter.err.ee/926685/vanad-ja-kobedad",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/929077",
+       "catchupDays": 63258,
+       "episode": 3,
+       "fancyUrl": "vanad-ja-kobedad",
+       "heading": "Vanad ja kobedad",
+       "horizontalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 0,
+         "version": 0
+        }
+       ],
+       "id": 929077,
+       "parentContentPath": "[1038533]",
+       "photos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 0,
+         "version": 0
+        }
+       ],
+       "primaryCategory": {
+        "allowContentPhoto": 1,
+        "analyticsId": "UA-21111330-48",
+        "backgroundPhotoId": null,
+        "color": "#000000",
+        "commenting": 2,
+        "contentVisible": 0,
+        "coverPhotoId": null,
+        "coverPhotoUrl": null,
+        "depth": 3,
+        "disableScanpix": 0,
+        "domain": "jupiter.err.ee",
+        "domainType": "vod",
+        "eMail": "",
+        "fullCoverPhoto": null,
+        "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+        "host": null,
+        "id": 4423,
+        "idec": "000000",
+        "isPodcast": 0,
+        "lang": "1",
+        "lead": "",
+        "lft": 3002,
+        "musicStyle": 1,
+        "name": "Komöödia",
+        "newsSiteUrl": "",
+        "parentId": 4136,
+        "passive": 0,
+        "photoId": "2350764",
+        "postToSocialmedia": 0,
+        "radiomanId": "",
+        "relativePath": "Jupiter > Video > Sarjad > Komöödia",
+        "rgt": 3003,
+        "rootCategoryId": 3905,
+        "slogan": null,
+        "springId": null,
+        "type": 1,
+        "url": "sarjad-komoodia"
+       },
+       "primaryCategoryId": 4423,
+       "publicStart": 1554984000,
+       "rootCategoryId": 3905,
+       "scheduleStart": 1792788300,
+       "season": 1,
+       "squarePhotos": [],
+       "subHeading": "Seened",
+       "type": "episode",
+       "updated": 1556139300,
+       "url": "https://jupiter.err.ee/929077/vanad-ja-kobedad",
+       "verticalPhotos": []
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/933423",
+       "catchupDays": 63258,
+       "episode": 4,
+       "fancyUrl": "vanad-ja-kobedad",
+       "heading": "Vanad ja kobedad",
+       "horizontalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 0,
+         "version": 0
+        }
+       ],
+       "id": 933423,
+       "parentContentPath": "[1038533]",
+       "photos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 0,
+         "version": 0
+        }
+       ],
+       "primaryCategory": {
+        "allowContentPhoto": 1,
+        "analyticsId": "UA-21111330-48",
+        "backgroundPhotoId": null,
+        "color": "#000000",
+        "commenting": 2,
+        "contentVisible": 0,
+        "coverPhotoId": null,
+        "coverPhotoUrl": null,
+        "depth": 3,
+        "disableScanpix": 0,
+        "domain": "jupiter.err.ee",
+        "domainType": "vod",
+        "eMail": "",
+        "fullCoverPhoto": null,
+        "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+        "host": null,
+        "id": 4423,
+        "idec": "000000",
+        "isPodcast": 0,
+        "lang": "1",
+        "lead": "",
+        "lft": 3002,
+        "musicStyle": 1,
+        "name": "Komöödia",
+        "newsSiteUrl": "",
+        "parentId": 4136,
+        "passive": 0,
+        "photoId": "2350764",
+        "postToSocialmedia": 0,
+        "radiomanId": "",
+        "relativePath": "Jupiter > Video > Sarjad > Komöödia",
+        "rgt": 3003,
+        "rootCategoryId": 3905,
+        "slogan": null,
+        "springId": null,
+        "type": 1,
+        "url": "sarjad-komoodia"
+       },
+       "primaryCategoryId": 4423,
+       "publicStart": 1556193600,
+       "rootCategoryId": 3905,
+       "scheduleStart": 1793396700,
+       "season": 1,
+       "squarePhotos": [],
+       "subHeading": "Pulma-aastapäev",
+       "type": "episode",
+       "updated": 1557348900,
+       "url": "https://jupiter.err.ee/933423/vanad-ja-kobedad",
+       "verticalPhotos": []
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/935480",
+       "catchupDays": 63258,
+       "episode": 5,
+       "fancyUrl": "vanad-ja-kobedad",
+       "heading": "Vanad ja kobedad",
+       "horizontalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 0,
+         "version": 0
+        }
+       ],
+       "id": 935480,
+       "parentContentPath": "[1038533]",
+       "photos": [
+        {
+         "authorEn": "",
+         "authorEt": "ERR",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Komöödiasari Vanad ja kobedad (Eesti 2000)",
+         "captionRu": "",
+         "created": 1554202015,
+         "format": "jpg",
+         "id": 620333,
+         "ord": 0,
+         "photoTypes": {
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h51fct34.jpg",
+           "w": 324
+          },
+          "50": {
+           "h": 75,
+           "type": 50,
+           "url": "https://s.err.ee/photo/crop/2019/04/02/620333h444ct50.jpg",
+           "w": 120
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2019/04/02/620333ha668.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2019/04/02/620333ha668.jpg",
+         "type": 0,
+         "version": 0
+        }
+       ],
+       "primaryCategory": {
+        "allowContentPhoto": 1,
+        "analyticsId": "UA-21111330-48",
+        "backgroundPhotoId": null,
+        "color": "#000000",
+        "commenting": 2,
+        "contentVisible": 0,
+        "coverPhotoId": null,
+        "coverPhotoUrl": null,
+        "depth": 3,
+        "disableScanpix": 0,
+        "domain": "jupiter.err.ee",
+        "domainType": "vod",
+        "eMail": "",
+        "fullCoverPhoto": null,
+        "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+        "host": null,
+        "id": 4423,
+        "idec": "000000",
+        "isPodcast": 0,
+        "lang": "1",
+        "lead": "",
+        "lft": 3002,
+        "musicStyle": 1,
+        "name": "Komöödia",
+        "newsSiteUrl": "",
+        "parentId": 4136,
+        "passive": 0,
+        "photoId": "2350764",
+        "postToSocialmedia": 0,
+        "radiomanId": "",
+        "relativePath": "Jupiter > Video > Sarjad > Komöödia",
+        "rgt": 3003,
+        "rootCategoryId": 3905,
+        "slogan": null,
+        "springId": null,
+        "type": 1,
+        "url": "sarjad-komoodia"
+       },
+       "primaryCategoryId": 4423,
+       "publicStart": 1556798400,
+       "rootCategoryId": 3905,
+       "scheduleStart": 1794002700,
+       "season": 1,
+       "squarePhotos": [],
+       "subHeading": "Sviit",
+       "type": "episode",
+       "updated": 1557953700,
+       "url": "https://jupiter.err.ee/935480/vanad-ja-kobedad",
+       "verticalPhotos": []
+      }
+     ],
+     "firstContentId": 924441,
+     "id": 1,
+     "name": "1",
+     "url": "/924441/vanad-ja-kobedad"
+    },
+    {
+     "contents": [],
+     "firstContentId": 962533,
+     "id": 2,
+     "name": "2",
+     "url": "/962533/vanad-ja-kobedad"
+    }
+   ],
+   "type": "seasonal"
+  }
+ }
+}

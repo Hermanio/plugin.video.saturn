@@ -1,0 +1,2157 @@
+{
+ "apiVersion": "2.0",
+ "data": {
+  "category": {
+   "analyticsId": "UA-21111330-48",
+   "description": "",
+   "domain": "jupiter.err.ee",
+   "frontPage": [
+    {
+     "data": [
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1610124095",
+       "fancyUrl": "da-vinci-kood",
+       "hasActiveMedia": true,
+       "heading": "Da Vinci kood",
+       "id": 1610124095,
+       "lead": "<p>Dan Browni ülemaailmse menuromaani alusel valminud filmi sündmused hakkavad hargnema Louvre'is aset leidnud salapärasest mõrvast. Toimunu jälgi hakkavad ajama Ameerika sümboliekspert Robert Langdon ja krüptoloog Sophie Neveu.</p>",
+       "mediaType": "vod",
+       "parentContentPath": "[]",
+       "photos": [
+        {
+         "authorEn": "",
+         "authorEt": "pressimaterjal",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Da Vinci kood",
+         "captionRu": "",
+         "created": 1788427809,
+         "format": "jpg",
+         "id": 3792553,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792553h32cat17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792553h343et2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792553h2d2bt34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792553h4442t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792553hf328t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/09/03/3792553h725f.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/09/03/3792553h725f.jpg",
+         "type": 3,
+         "version": 1
+        }
+       ],
+       "primaryCategoryId": 4432,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1789152300,
+       "squarePhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "pressimaterjal",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Da Vinci kood",
+         "captionRu": "",
+         "created": 1788427979,
+         "format": "jpg",
+         "id": 3792562,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792562h57a5t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792562h6ff6t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792562hccbct34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792562hf342t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792562h8d58t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/09/03/3792562h727a.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/09/03/3792562h727a.jpg",
+         "type": 4,
+         "version": 0
+        }
+       ],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Da Vinci kood",
+         "captionRu": "",
+         "created": 1788886830,
+         "format": "jpg",
+         "id": 3798697,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/09/08/3798697he387t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/09/08/3798697hc07at2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/09/08/3798697h7c1ft34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/09/08/3798697hcd81t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/09/08/3798697hf35ft80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/09/08/3798697hfa4a.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/09/08/3798697hfa4a.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      }
+     ],
+     "header": "",
+     "headerUrl": "",
+     "highTimeline": false,
+     "liveBlock": false,
+     "manual": {
+      "banner": true,
+      "highTimeline": false
+     }
+    },
+    {
+     "data": [
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1608205081",
+       "fancyUrl": "libahunt",
+       "hasActiveMedia": true,
+       "heading": "Libahunt",
+       "id": 1608205081,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4441,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1711912800,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Libahunt",
+         "captionRu": "",
+         "created": 1711359558,
+         "format": "jpg",
+         "id": 2321775,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h0ceet17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hee6dt2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/03/25/2321775he509t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h2f45t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h31f9t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/03/25/2321775hba7a.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/03/25/2321775hba7a.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://etv2.err.ee/1203481",
+       "fancyUrl": "naine-kutab-sauna",
+       "hasActiveMedia": true,
+       "heading": "Naine kütab sauna",
+       "id": 1203481,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4335,
+       "rootCategoryId": 402,
+       "rootContentId": 0,
+       "scheduleStart": 1712397600,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Naine kütab sauna",
+         "captionRu": "",
+         "created": 1712313186,
+         "format": "jpg",
+         "id": 2339916,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/04/05/2339916h3cf4t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/04/05/2339916hc037t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/04/05/2339916hf6f6t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/04/05/2339916ha2a3t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/04/05/2339916hd28et80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/04/05/2339916hb731.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/04/05/2339916hb731.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1608539434",
+       "fancyUrl": "karge-meri",
+       "hasActiveMedia": true,
+       "heading": "Karge meri",
+       "id": 1608539434,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4431,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 0,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "karge meri",
+         "captionRu": "",
+         "created": 1773664475,
+         "format": "jpg",
+         "id": 3260723,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260723hee4bt17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260723h17c6t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260723hf0bct34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260723h2b8dt60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260723h5870t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/16/3260723h8eb4.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/16/3260723h8eb4.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1211137",
+       "fancyUrl": "don-juan-tallinnas",
+       "hasActiveMedia": true,
+       "heading": "Don Juan Tallinnas",
+       "id": 1211137,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4441,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1782273000,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Don Juan Tallinnas",
+         "captionRu": "",
+         "created": 1714121371,
+         "format": "jpg",
+         "id": 2371134,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/04/26/2371134h6e2dt17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/04/26/2371134hf866t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/04/26/2371134ha737t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/04/26/2371134h1149t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/04/26/2371134h6d39t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/04/26/2371134h180b.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/04/26/2371134h180b.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1200187",
+       "fancyUrl": "viini-postmark",
+       "hasActiveMedia": true,
+       "heading": "Viini postmark",
+       "id": 1200187,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4441,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1788863100,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Viini postmark",
+         "captionRu": "",
+         "created": 1713361115,
+         "format": "jpg",
+         "id": 2360667,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/04/17/2360667h7f6ft17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/04/17/2360667hadc1t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/04/17/2360667h1f1at34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/04/17/2360667hcdcdt60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/04/17/2360667hfb28t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/04/17/2360667hac7b.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/04/17/2360667hac7b.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://etv.err.ee/1608572128",
+       "fancyUrl": "soovide-puu",
+       "hasActiveMedia": true,
+       "heading": "Soovide puu",
+       "id": 1608572128,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4337,
+       "rootCategoryId": 401,
+       "rootContentId": 0,
+       "scheduleStart": 1788645000,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Soovide puu",
+         "captionRu": "",
+         "created": 1773666347,
+         "format": "jpg",
+         "id": 3260933,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260933hdc6at17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260933heb3at2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260933hb27dt34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260933h04bat60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260933h9545t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/16/3260933hb503.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/16/3260933hb503.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      }
+     ],
+     "header": "Eesti",
+     "headerUrl": "/eesti",
+     "highTimeline": true,
+     "liveBlock": false,
+     "manual": {
+      "banner": false,
+      "highTimeline": true
+     }
+    },
+    {
+     "data": [],
+     "header": "Jätka",
+     "headerUrl": "",
+     "highTimeline": false,
+     "liveBlock": false,
+     "manual": {
+      "banner": false,
+      "highTimeline": false,
+      "userBasedTimeline": true,
+      "userBasedTimelineLimit": 21,
+      "userBasedTimelineSource": "history"
+     },
+     "userBasedTimeline": true
+    },
+    {
+     "data": [
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609432300",
+       "fancyUrl": "suured-lapsed",
+       "hasActiveMedia": true,
+       "heading": "Suured lapsed",
+       "id": 1609432300,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 3199,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1748781900,
+       "squarePhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "pressimaterjal",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Suured lapsed (mängufilm)",
+         "captionRu": "",
+         "created": 1788763460,
+         "format": "jpg",
+         "id": 3796276,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/09/07/3796276hd09bt17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/09/07/3796276he1e4t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/09/07/3796276h8930t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/09/07/3796276hc01dt60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/09/07/3796276h61edt80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/09/07/3796276hbc22.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/09/07/3796276hbc22.jpg",
+         "type": 4,
+         "version": 0
+        }
+       ],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Suured lapsed",
+         "captionRu": "",
+         "created": 1725358830,
+         "format": "jpg",
+         "id": 2533436,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/09/03/2533436hb6e3t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/09/03/2533436h54det2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/09/03/2533436h5048t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/09/03/2533436h1616t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/09/03/2533436h5025t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/09/03/2533436ha431.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/09/03/2533436ha431.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609282007",
+       "fancyUrl": "igavesti-noored",
+       "hasActiveMedia": true,
+       "heading": "Igavesti noored",
+       "id": 1609282007,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4431,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1788725100,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Igavesti noored",
+         "captionRu": "",
+         "created": 1713770627,
+         "format": "jpg",
+         "id": 2365524,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/04/22/2365524hbc0dt17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/04/22/2365524hf6d7t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/04/22/2365524h6de0t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/04/22/2365524he297t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/04/22/2365524h5855t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/04/22/2365524hac3b.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/04/22/2365524hac3b.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609438639",
+       "fancyUrl": "blaga-oppetunnid",
+       "hasActiveMedia": true,
+       "heading": "Blaga õppetunnid",
+       "id": 1609438639,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 2864,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1788639000,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Blaga õppetunnid",
+         "captionRu": "",
+         "created": 1725884386,
+         "format": "jpg",
+         "id": 2539790,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/09/09/2539790h7c59t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/09/09/2539790hd654t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/09/09/2539790habdat34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/09/09/2539790h630dt60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/09/09/2539790he974t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/09/09/2539790ha98f.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/09/09/2539790ha98f.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609978714",
+       "fancyUrl": "maria-montessori",
+       "hasActiveMedia": true,
+       "heading": "Maria Montessori",
+       "id": 1609978714,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 3199,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1788633300,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Maria Montessori",
+         "captionRu": "",
+         "created": 1775569823,
+         "format": "jpg",
+         "id": 3293602,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/04/07/3293602hd770t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/04/07/3293602h67bet2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/04/07/3293602h71fbt34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/04/07/3293602h9ff4t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/04/07/3293602h3600t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/04/07/3293602h8bfe.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/04/07/3293602h8bfe.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609848115",
+       "fancyUrl": "armunud-kokk",
+       "hasActiveMedia": true,
+       "heading": "Armunud kokk",
+       "id": 1609848115,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4435,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1788625800,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Armunud kokk",
+         "captionRu": "",
+         "created": 1762865837,
+         "format": "jpg",
+         "id": 3084690,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2025/11/11/3084690hdb8at17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2025/11/11/3084690hf7d4t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2025/11/11/3084690he095t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2025/11/11/3084690h8d91t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2025/11/11/3084690h6f75t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2025/11/11/3084690hf94e.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2025/11/11/3084690hf94e.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1610114519",
+       "fancyUrl": "louise-violet",
+       "hasActiveMedia": true,
+       "heading": "Louise Violet",
+       "id": 1610114519,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 2864,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1788461700,
+       "squarePhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "pressimaterjal",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Louise Violet",
+         "captionRu": "",
+         "created": 1788431057,
+         "format": "jpg",
+         "id": 3792709,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792709hfd14t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792709h7ee3t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792709h3848t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792709hcb25t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792709hcaabt80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/09/03/3792709ha03f.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/09/03/3792709ha03f.jpg",
+         "type": 4,
+         "version": 2
+        }
+       ],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "Toon Vugts",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Louise Violet",
+         "captionRu": "",
+         "created": 1788431116,
+         "format": "jpg",
+         "id": 3792718,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792718hb8d5t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792718h062ft2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792718h18e9t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792718h42e9t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792718h8c59t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/09/03/3792718h0751.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/09/03/3792718h0751.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      }
+     ],
+     "header": "Euroopa kino",
+     "headerUrl": "/euroopa-kino",
+     "highTimeline": true,
+     "liveBlock": false,
+     "manual": {
+      "banner": false,
+      "highTimeline": true
+     }
+    },
+    {
+     "data": [
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1610124095",
+       "fancyUrl": "da-vinci-kood",
+       "hasActiveMedia": true,
+       "heading": "Da Vinci kood",
+       "id": 1610124095,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4432,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1789152300,
+       "squarePhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "pressimaterjal",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Da Vinci kood",
+         "captionRu": "",
+         "created": 1788427979,
+         "format": "jpg",
+         "id": 3792562,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792562h57a5t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792562h6ff6t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792562hccbct34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792562hf342t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/09/03/3792562h8d58t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/09/03/3792562h727a.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/09/03/3792562h727a.jpg",
+         "type": 4,
+         "version": 0
+        }
+       ],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Da Vinci kood",
+         "captionRu": "",
+         "created": 1788886830,
+         "format": "jpg",
+         "id": 3798697,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/09/08/3798697he387t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/09/08/3798697hc07at2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/09/08/3798697h7c1ft34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/09/08/3798697hcd81t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/09/08/3798697hf35ft80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/09/08/3798697hfa4a.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/09/08/3798697hfa4a.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609957504",
+       "fancyUrl": "elluastuja",
+       "hasActiveMedia": true,
+       "heading": "Elluastuja",
+       "id": 1609957504,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4431,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1788548400,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Elluastuja",
+         "captionRu": "",
+         "created": 1773055997,
+         "format": "jpg",
+         "id": 3248213,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/03/09/3248213hd4fbt17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/03/09/3248213h25c7t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/03/09/3248213hc5fet34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/03/09/3248213h71c4t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/03/09/3248213h2bc3t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/09/3248213hdfa9.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/09/3248213hdfa9.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://etv.err.ee/1608967895",
+       "fancyUrl": "kapten-corelli-mandoliin",
+       "hasActiveMedia": true,
+       "heading": "Kapten Corelli mandoliin",
+       "id": 1608967895,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4337,
+       "rootCategoryId": 401,
+       "rootContentId": 0,
+       "scheduleStart": 1788547500,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Kapten Corelli mandoliin",
+         "captionRu": "",
+         "created": 1705946564,
+         "format": "jpg",
+         "id": 2226150,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/01/22/2226150ha727t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/01/22/2226150hfedft2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/01/22/2226150hd998t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/01/22/2226150h2e3bt60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/01/22/2226150hb5e1t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/01/22/2226150he819.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/01/22/2226150he819.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1610094218",
+       "fancyUrl": "logani-onn",
+       "hasActiveMedia": true,
+       "heading": "Logani õnn",
+       "id": 1610094218,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4432,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1788031500,
+       "squarePhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "pressimaterjal",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Logani õnn",
+         "captionRu": "",
+         "created": 1787644841,
+         "format": "jpg",
+         "id": 3781552,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/08/25/3781552hd5fft17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/08/25/3781552h3915t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/08/25/3781552haf46t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/08/25/3781552h57b9t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/08/25/3781552h24a3t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/08/25/3781552hc997.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/08/25/3781552hc997.jpg",
+         "type": 4,
+         "version": 0
+        }
+       ],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Logani õnn",
+         "captionRu": "",
+         "created": 1787570790,
+         "format": "jpg",
+         "id": 3780790,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780790ha1c1t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780790hafbdt2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780790hcfd9t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780790hcdfct60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780790h0f4ct80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/08/24/3780790hb956.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/08/24/3780790hb956.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609959238",
+       "fancyUrl": "madam-clicquot",
+       "hasActiveMedia": true,
+       "heading": "Madam Clicquot",
+       "id": 1609959238,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 2864,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1788025500,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Madam Clicquot",
+         "captionRu": "",
+         "created": 1773662289,
+         "format": "jpg",
+         "id": 3260312,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260312h286bt17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260312heec6t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260312h57ebt34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260312h91f9t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/03/16/3260312h7eeet80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/16/3260312h36ac.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/16/3260312h36ac.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://etv2.err.ee/1609108067",
+       "fancyUrl": "paikesepoletus",
+       "hasActiveMedia": true,
+       "heading": "Päikesepõletus",
+       "id": 1609108067,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4335,
+       "rootCategoryId": 402,
+       "rootContentId": 0,
+       "scheduleStart": 1787516100,
+       "squarePhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "\"Päikesepõletus\"",
+         "captionRu": "",
+         "created": 1787553141,
+         "format": "jpg",
+         "id": 3780244,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780244h8179t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780244h8119t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780244h7a8ct34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780244hfda0t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780244h1361t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/08/24/3780244h4e62.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/08/24/3780244h4e62.jpg",
+         "type": 4,
+         "version": 0
+        }
+       ],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Päikesepõletus",
+         "captionRu": "",
+         "created": 1696496116,
+         "format": "jpg",
+         "id": 2099801,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2023/10/05/2099801hce88t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2023/10/05/2099801h3de9t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2023/10/05/2099801he8aat34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2023/10/05/2099801hfd0et60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2023/10/05/2099801hb6b7t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2023/10/05/2099801h128d.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2023/10/05/2099801h128d.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      }
+     ],
+     "header": "Hollywood",
+     "headerUrl": "/hollywood",
+     "highTimeline": true,
+     "liveBlock": false,
+     "manual": {
+      "banner": false,
+      "highTimeline": true
+     }
+    },
+    {
+     "data": [
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609825327",
+       "fancyUrl": "klaver",
+       "hasActiveMedia": true,
+       "heading": "Klaver",
+       "id": 1609825327,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 2864,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1789845900,
+       "squarePhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "pressimaterjal",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Klaver (mängufilm)",
+         "captionRu": "",
+         "created": 1787553209,
+         "format": "jpg",
+         "id": 3780247,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780247h4efdt17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780247h097at2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780247h590ct34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780247hf348t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2026/08/24/3780247h73eat80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2026/08/24/3780247h4139.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/08/24/3780247h4139.jpg",
+         "type": 4,
+         "version": 0
+        }
+       ],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Klaver",
+         "captionRu": "",
+         "created": 1760973745,
+         "format": "jpg",
+         "id": 3059601,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2025/10/20/3059601hc17at17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2025/10/20/3059601hfbb4t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2025/10/20/3059601h9079t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2025/10/20/3059601ha2d9t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2025/10/20/3059601h23f7t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2025/10/20/3059601h1372.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2025/10/20/3059601h1372.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609481718",
+       "fancyUrl": "blackberry",
+       "hasActiveMedia": true,
+       "heading": "BlackBerry",
+       "id": 1609481718,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4432,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1787428500,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "BlackBerry",
+         "captionRu": "",
+         "created": 1728973273,
+         "format": "jpg",
+         "id": 2581096,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/10/15/2581096h4619t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/10/15/2581096h21a4t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/10/15/2581096hbd7ft34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/10/15/2581096hb8c1t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/10/15/2581096hb895t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/10/15/2581096h4f0b.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/10/15/2581096h4f0b.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609639210",
+       "fancyUrl": "koletis",
+       "hasActiveMedia": true,
+       "heading": "Koletis",
+       "id": 1609639210,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 2864,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1785438000,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Koletis",
+         "captionRu": "",
+         "created": 1743410135,
+         "format": "jpg",
+         "id": 2806718,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2025/03/31/2806718h65e5t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2025/03/31/2806718h9475t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2025/03/31/2806718h61a4t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2025/03/31/2806718h5471t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2025/03/31/2806718h9a6ft80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2025/03/31/2806718h0b50.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2025/03/31/2806718h0b50.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609415836",
+       "fancyUrl": "huvasti-buenos-aires",
+       "hasActiveMedia": true,
+       "heading": "Hüvasti, Buenos Aires",
+       "id": 1609415836,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4433,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1784228400,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Hüvasti, Buenos Aires",
+         "captionRu": "",
+         "created": 1723725939,
+         "format": "jpg",
+         "id": 2509600,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/08/15/2509600hd0bet17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/08/15/2509600hb520t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/08/15/2509600h5642t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/08/15/2509600h3d7et60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/08/15/2509600hcfa2t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/08/15/2509600h05ae.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/08/15/2509600h05ae.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1608812875",
+       "fancyUrl": "taas-kord-june",
+       "hasActiveMedia": true,
+       "heading": "Taas kord June",
+       "id": 1608812875,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 4431,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1782414000,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Taas kord June",
+         "captionRu": "",
+         "created": 1724842200,
+         "format": "jpg",
+         "id": 2526605,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2024/08/28/2526605h0557t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2024/08/28/2526605h22d7t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2024/08/28/2526605ha4f8t34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2024/08/28/2526605h011dt60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2024/08/28/2526605h35e7t80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2024/08/28/2526605h138e.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/08/28/2526605h138e.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      },
+      {
+       "anotherDomainContent": true,
+       "canonicalUrl": "https://jupiter.err.ee/1609847800",
+       "fancyUrl": "murieli-pulm",
+       "hasActiveMedia": true,
+       "heading": "Murieli pulm",
+       "id": 1609847800,
+       "parentContentPath": "[]",
+       "primaryCategoryId": 2864,
+       "rootCategoryId": 3905,
+       "rootContentId": 0,
+       "scheduleStart": 1763150400,
+       "squarePhotos": [],
+       "subHeading": "",
+       "type": "movie",
+       "verticalPhotos": [
+        {
+         "authorEn": "",
+         "authorEt": "",
+         "authorRu": "",
+         "captionEn": "",
+         "captionEt": "Murieli pulm",
+         "captionRu": "",
+         "created": 1762767225,
+         "format": "jpg",
+         "id": 3083301,
+         "ord": 0,
+         "photoTypes": {
+          "17": {
+           "h": 338,
+           "type": 17,
+           "url": "https://s.err.ee/photo/crop/2025/11/10/3083301hbfe9t17.jpg",
+           "w": 600
+          },
+          "2": {
+           "h": 1080,
+           "type": 2,
+           "url": "https://s.err.ee/photo/crop/2025/11/10/3083301hc5d8t2.jpg",
+           "w": 1920
+          },
+          "34": {
+           "h": 182,
+           "type": 34,
+           "url": "https://s.err.ee/photo/crop/2025/11/10/3083301h8f0bt34.jpg",
+           "w": 324
+          },
+          "60": {
+           "h": 270,
+           "type": 60,
+           "url": "https://s.err.ee/photo/crop/2025/11/10/3083301h0d52t60.jpg",
+           "w": 180
+          },
+          "80": {
+           "h": 600,
+           "type": 80,
+           "url": "https://s.err.ee/photo/crop/2025/11/10/3083301hd9adt80.jpg",
+           "w": 400
+          }
+         },
+         "photoUrlBase": "https://s.err.ee/photo/crop/2025/11/10/3083301h4bc8.jpg",
+         "photoUrlOriginal": "https://s.err.ee/photo/orig/2025/11/10/3083301h4bc8.jpg",
+         "type": 1,
+         "version": 0
+        }
+       ]
+      }
+     ],
+     "header": "Maailmakino",
+     "headerUrl": "",
+     "highTimeline": true,
+     "liveBlock": false,
+     "manual": {
+      "banner": false,
+      "highTimeline": true
+     }
+    }
+   ],
+   "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+   "id": 4137,
+   "items": [],
+   "name": "Filmid",
+   "photos": [
+    {
+     "created": 1712920744,
+     "format": "jpg",
+     "id": 2350764,
+     "ord": 0,
+     "photoTypes": {
+      "16": {
+       "h": 0,
+       "type": 16,
+       "url": "https://s.err.ee/photo/crop/2024/04/12/2350764h0183t16.jpg",
+       "w": 1000
+      }
+     },
+     "photoUrlBase": "https://s.err.ee/photo/crop/2024/04/12/2350764h31af.jpg",
+     "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/04/12/2350764h31af.jpg",
+     "type": 0,
+     "version": 0
+    }
+   ],
+   "siteContent": "video"
+  }
+ }
+}

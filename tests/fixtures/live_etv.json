@@ -1,0 +1,51 @@
+{
+ "config": {
+  "autoload": true,
+  "autoplay": true,
+  "categoryUrl": "etv",
+  "domain": "otse.err.ee",
+  "drm": {
+   "initBySchedule": true,
+   "jwt": "<redacted>",
+   "licenseServerUrls": {
+    "fairPlay": "https://drm-fairplay-licensing.axprod.net/AcquireLicense",
+    "playReady": "https://drm-playready-licensing.axprod.net/AcquireLicense",
+    "widevine": "https://drm-widevine-licensing.axprod.net/AcquireLicense"
+   },
+   "srcs": {
+    "dash": "https://live.err.ee/etv/etv.isml/manifest.mpd",
+    "hls": "https://live.err.ee/etv/etv.isml/master.m3u8"
+   }
+  },
+  "emorpath": "etv/otse",
+  "gemiusId": "ncnglD8Qo4mte0ij2ZohJJSr354upCNY9RPkiI9k.Qb.P7",
+  "imgSrc": "//s.err.ee/www/images/live/etv.jpg",
+  "isGeoBlocked": false,
+  "live": true,
+  "mediaId": "ETV-live",
+  "mediaType": "video",
+  "ndvr": 1,
+  "schedule": {
+   "url": "/api/tvSchedule/getExactSchedules?type=player&channel=etv"
+  },
+  "seriesName": "ETV",
+  "thumbnail": {
+   "url": "//atlas-th.err.ee/etv/?time=CURRENT_TIME"
+  },
+  "title": "ETV",
+  "type": "video",
+  "typologyName": "etv-live"
+ },
+ "isSpecial": false,
+ "nameId": "etv",
+ "overflow": [],
+ "overflowEst": [],
+ "overflowGb": [],
+ "serverDate": "2026-09-12T01:16:59+03:00",
+ "src": "//live.err.ee/live/etv.m3u8",
+ "srcDash": "http://etvstream.err.ee/live/smil:etv/manifest.mpd",
+ "threshold": 4000,
+ "thresholdReached": false,
+ "ttl": 474,
+ "typologyGroup": "ERR_services"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.saturn"
+       name="Saturn"
+       version="1.0.0"
+       provider-name="Herman Õunapuu">
+    <requires>
+        <import addon="xbmc.python" version="3.0.1"/>
+        <import addon="script.module.inputstreamhelper" version="0.5.12"/>
+        <import addon="inputstream.adaptive" version="21.5.0"/>
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video audio</provides>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Watch and listen to ERR Jupiter (jupiter.err.ee)</summary>
+        <summary lang="et">Vaata ja kuula ERR Jupiterit (jupiter.err.ee)</summary>
+        <description lang="en">Saturn browses and plays the on-demand video and audio catalogue of Eesti Rahvusringhääling (Estonian Public Broadcasting): films, series, documentaries, sport, children's programmes, radio programmes and radio theatre, with live TV and radio and catch-up of what has aired. Covers the Jupiter and Lasteekraan catalogues, with subtitles.</description>
+        <description lang="et">Saturn sirvib ja esitab Eesti Rahvusringhäälingu video- ja audiokataloogi: filme, sarju, dokumentaale, sporti, lastesaateid, raadiosaateid ja raadioteatrit, samuti otse-TV-d ja -raadiot ning eetris olnud saadete järelvaatamist. Hõlmab Jupiteri ja Lasteekraani katalooge, koos subtiitritega.</description>
+        <license>GPL-3.0-or-later</license>
+        <website>https://ounapuu.ee</website>
+        <source>https://github.com/Hermanio/plugin.video.saturn</source>
+        <email>kodi@ounapuu.ee</email>
+        <platform>all</platform>
+        <language>et en</language>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <banner>banner.png</banner>
+            <clearlogo>clearlogo.png</clearlogo>
+        </assets>
+        <news>1.0.0 - First release. ERR Jupiter and Lasteekraan in Kodi: every category, series in watching order, search, live TV and radio with catch-up, and DRM titles through Widevine.</news>
+        <disclaimer lang="en">Saturn is an unofficial client. It is not affiliated with or endorsed by Eesti Rahvusringhääling. Content availability may be restricted outside Estonia.</disclaimer>
+        <disclaimer lang="et">Saturn on mitteametlik klient. See ei ole seotud Eesti Rahvusringhäälinguga. Sisu kättesaadavus võib väljaspool Eestit olla piiratud.</disclaimer>
+    </extension>
+</addon>

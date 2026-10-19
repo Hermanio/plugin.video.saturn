@@ -1,0 +1,153 @@
+# Kodi Media Center language file
+# Addon Name: Saturn
+# Addon id: plugin.video.saturn
+# Addon Provider: Herman Õunapuu
+msgid ""
+msgstr ""
+"Project-Id-Version: Saturn\n"
+"Report-Msgid-Bugs-To: https://ounapuu.ee\n"
+"POT-Creation-Date: 2026-09-11 00:00+0000\n"
+"PO-Revision-Date: 2026-09-11 00:00+0000\n"
+"Last-Translator: Herman Õunapuu\n"
+"Language-Team: English (United Kingdom)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_gb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30002"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30003"
+msgid "All"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Next page"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Season"
+msgstr ""
+
+msgctxt "#30008"
+msgid "All seasons"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Clips"
+msgstr ""
+
+msgctxt "#30010"
+msgid "All %s"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Search Saturn"
+msgstr ""
+
+msgctxt "#30012"
+msgid "No results"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Featured"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Live"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Schedule"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Today"
+msgstr ""
+
+msgctxt "#30020"
+msgid "TV"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Radio"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Programmes"
+msgstr ""
+
+msgctxt "#30100"
+msgid "General"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "#30107"
+msgid "Preferred subtitle language"
+msgstr ""
+
+msgctxt "#30108"
+msgid "Only subtitles in this language are attached; when there are none, all are."
+msgstr ""
+
+msgctxt "#30109"
+msgid "Any"
+msgstr ""
+
+msgctxt "#30110"
+msgid "Estonian"
+msgstr ""
+
+msgctxt "#30111"
+msgid "Estonian (hearing impaired)"
+msgstr ""
+
+msgctxt "#30113"
+msgid "English"
+msgstr ""
+
+msgctxt "#30114"
+msgid "Artwork"
+msgstr ""
+
+msgctxt "#30115"
+msgid "Load artwork"
+msgstr ""
+
+msgctxt "#30116"
+msgid "Show posters and fanart in listings. Turn off on slow connections."
+msgstr ""
+
+msgctxt "#30117"
+msgid "Load subtitles"
+msgstr ""
+
+msgctxt "#30118"
+msgid "Attach subtitle tracks to played streams."
+msgstr ""
+
+msgctxt "#30200"
+msgid "No playable stream found"
+msgstr ""
+
+msgctxt "#30202"
+msgid "Widevine is required for this stream"
+msgstr ""
+
+msgctxt "#30203"
+msgid "ERR did not allow this title to play here"
+msgstr ""
+
+msgctxt "#30204"
+msgid "Could not reach the ERR API"
+msgstr ""
+
+msgctxt "#30205"
+msgid "Something went wrong, see the Kodi log"
+msgstr ""

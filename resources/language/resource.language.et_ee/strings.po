@@ -1,0 +1,153 @@
+# Kodi Media Center language file
+# Addon Name: Saturn
+# Addon id: plugin.video.saturn
+# Addon Provider: Herman Õunapuu
+msgid ""
+msgstr ""
+"Project-Id-Version: Saturn\n"
+"Report-Msgid-Bugs-To: https://ounapuu.ee\n"
+"POT-Creation-Date: 2026-09-11 00:00+0000\n"
+"PO-Revision-Date: 2026-09-11 00:00+0000\n"
+"Last-Translator: Herman Õunapuu\n"
+"Language-Team: Estonian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: et_ee\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30002"
+msgid "Search"
+msgstr "Otsing"
+
+msgctxt "#30003"
+msgid "All"
+msgstr "Kõik"
+
+msgctxt "#30005"
+msgid "Next page"
+msgstr "Järgmine leht"
+
+msgctxt "#30007"
+msgid "Season"
+msgstr "Hooaeg"
+
+msgctxt "#30008"
+msgid "All seasons"
+msgstr "Kõik hooajad"
+
+msgctxt "#30009"
+msgid "Clips"
+msgstr "Klipid"
+
+msgctxt "#30010"
+msgid "All %s"
+msgstr "Kõik %s"
+
+msgctxt "#30011"
+msgid "Search Saturn"
+msgstr "Otsi Saturnist"
+
+msgctxt "#30012"
+msgid "No results"
+msgstr "Tulemusi ei leitud"
+
+msgctxt "#30014"
+msgid "Featured"
+msgstr "Esiletõstetud"
+
+msgctxt "#30015"
+msgid "Live"
+msgstr "Otse"
+
+msgctxt "#30016"
+msgid "Schedule"
+msgstr "Kava"
+
+msgctxt "#30017"
+msgid "Today"
+msgstr "Täna"
+
+msgctxt "#30020"
+msgid "TV"
+msgstr "TV"
+
+msgctxt "#30021"
+msgid "Radio"
+msgstr "Raadio"
+
+msgctxt "#30022"
+msgid "Programmes"
+msgstr "Saated"
+
+msgctxt "#30100"
+msgid "General"
+msgstr "Üldine"
+
+msgctxt "#30101"
+msgid "Subtitles"
+msgstr "Subtiitrid"
+
+msgctxt "#30107"
+msgid "Preferred subtitle language"
+msgstr "Eelistatud subtiitrite keel"
+
+msgctxt "#30108"
+msgid "Only subtitles in this language are attached; when there are none, all are."
+msgstr "Lisatakse ainult selle keele subtiitrid; kui neid pole, siis kõik."
+
+msgctxt "#30109"
+msgid "Any"
+msgstr "Mis tahes"
+
+msgctxt "#30110"
+msgid "Estonian"
+msgstr "Eesti keel"
+
+msgctxt "#30111"
+msgid "Estonian (hearing impaired)"
+msgstr "Eesti keel (vaegkuuljatele)"
+
+msgctxt "#30113"
+msgid "English"
+msgstr "Inglise keel"
+
+msgctxt "#30114"
+msgid "Artwork"
+msgstr "Pildid"
+
+msgctxt "#30115"
+msgid "Load artwork"
+msgstr "Laadi pildid"
+
+msgctxt "#30116"
+msgid "Show posters and fanart in listings. Turn off on slow connections."
+msgstr "Näita nimekirjades plakateid ja taustapilte. Lülita aeglase ühenduse korral välja."
+
+msgctxt "#30117"
+msgid "Load subtitles"
+msgstr "Laadi subtiitrid"
+
+msgctxt "#30118"
+msgid "Attach subtitle tracks to played streams."
+msgstr "Lisa esitatavatele voogudele subtiitrid."
+
+msgctxt "#30200"
+msgid "No playable stream found"
+msgstr "Esitatavat voogu ei leitud"
+
+msgctxt "#30202"
+msgid "Widevine is required for this stream"
+msgstr "See voog vajab Widevine'i"
+
+msgctxt "#30203"
+msgid "ERR did not allow this title to play here"
+msgstr "ERR ei luba seda saadet siin esitada"
+
+msgctxt "#30204"
+msgid "Could not reach the ERR API"
+msgstr "ERRi API-ga ei saadud ühendust"
+
+msgctxt "#30205"
+msgid "Something went wrong, see the Kodi log"
+msgstr "Midagi läks valesti, vaata Kodi logi"

@@ -1,0 +1,99 @@
+{
+ "apiVersion": "2.0",
+ "data": {
+  "items": [
+   {
+    "id": 556,
+    "kids": [
+     {
+      "id": 580,
+      "kids_count": 0,
+      "link": "/telekava",
+      "name": "Otse",
+      "parentId": 556,
+      "passive": 0,
+      "primaryCategoryId": 0,
+      "targetBlank": 0
+     },
+     {
+      "id": 558,
+      "kids_count": 0,
+      "link": "/v-saated",
+      "name": "Saated",
+      "parentId": 556,
+      "passive": 0,
+      "primaryCategoryId": 0,
+      "targetBlank": 0
+     },
+     {
+      "id": 559,
+      "kids_count": 0,
+      "link": "/sarjad",
+      "name": "Sarjad",
+      "parentId": 556,
+      "passive": 0,
+      "primaryCategoryId": 0,
+      "targetBlank": 0
+     },
+     {
+      "id": 560,
+      "kids_count": 0,
+      "link": "/filmid",
+      "name": "Filmid",
+      "parentId": 556,
+      "passive": 0,
+      "primaryCategoryId": 0,
+      "targetBlank": 0
+     },
+     {
+      "id": 1322,
+      "kids_count": 0,
+      "link": "/sport",
+      "name": "Sport",
+      "parentId": 556,
+      "passive": 0,
+      "primaryCategoryId": 0,
+      "targetBlank": 0
+     },
+     {
+      "id": 661,
+      "kids_count": 0,
+      "link": "/io",
+      "name": "Io",
+      "parentId": 556,
+      "passive": 0,
+      "primaryCategoryId": 0,
+      "targetBlank": 0
+     },
+     {
+      "id": 565,
+      "kids_count": 0,
+      "link": "/raadioteater",
+      "name": "Raadioteater",
+      "parentId": 556,
+      "passive": 0,
+      "primaryCategoryId": 0,
+      "targetBlank": 0
+     }
+    ],
+    "kids_count": 7,
+    "link": "/video",
+    "name": "Video",
+    "parentId": 555,
+    "passive": 0,
+    "primaryCategoryId": 0,
+    "targetBlank": 0
+   },
+   {
+    "id": 557,
+    "kids_count": 0,
+    "link": "//eestiraadio.err.ee",
+    "name": "Audio",
+    "parentId": 555,
+    "passive": 0,
+    "primaryCategoryId": 0,
+    "targetBlank": 1
+   }
+  ]
+ }
+}

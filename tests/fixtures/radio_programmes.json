@@ -1,0 +1,117 @@
+{
+ "countsByActive": 94,
+ "countsByArchived": 177,
+ "countsByPrimaryCategory": {
+  "404": 94,
+  "405": 0,
+  "406": 0,
+  "407": 0,
+  "408": 0
+ },
+ "currentPage": 1,
+ "data": {
+  "results": [
+   {
+    "channelCategoryId": 404,
+    "combinedTime": 0,
+    "domain": "vikerraadio.err.ee",
+    "domainType": "radio",
+    "heading": "Abya Yala – Ameerikate süda",
+    "id": 1609719126,
+    "photo": "crop/2026/06/16/3662023hf030.jpg",
+    "primaryCategory": 404,
+    "state": 1,
+    "url": "/vikerraadio/1609719126"
+   },
+   {
+    "channelCategoryId": 404,
+    "combinedTime": 0,
+    "domain": "vikerraadio.err.ee",
+    "domainType": "radio",
+    "heading": "Aeg peatub",
+    "id": 1037775,
+    "photo": "crop/2023/10/23/2122244h4cd4.jpg",
+    "primaryCategory": 404,
+    "state": 1,
+    "url": "/vikerraadio/1037775"
+   },
+   {
+    "channelCategoryId": 404,
+    "combinedTime": 0,
+    "domain": "vikerraadio.err.ee",
+    "domainType": "radio",
+    "heading": "Atlas",
+    "id": 1610118694,
+    "photo": "crop/2026/08/30/3788039hc911.jpg",
+    "primaryCategory": 404,
+    "state": 1,
+    "url": "/vikerraadio/1610118694"
+   },
+   {
+    "channelCategoryId": 404,
+    "combinedTime": 0,
+    "domain": "vikerraadio.err.ee",
+    "domainType": "radio",
+    "heading": "Eesti lugu",
+    "id": 1037793,
+    "photo": "crop/2023/11/13/2149072he2f3.jpg",
+    "primaryCategory": 404,
+    "state": 1,
+    "url": "/vikerraadio/1037793"
+   },
+   {
+    "channelCategoryId": 404,
+    "combinedTime": 0,
+    "domain": "vikerraadio.err.ee",
+    "domainType": "radio",
+    "heading": "Eestimaa toimikud",
+    "id": 1610028046,
+    "photo": "crop/2026/06/25/3670402h07f7.jpg",
+    "primaryCategory": 404,
+    "state": 1,
+    "url": "/vikerraadio/1610028046"
+   },
+   {
+    "channelCategoryId": 404,
+    "combinedTime": 0,
+    "domain": "vikerraadio.err.ee",
+    "domainType": "radio",
+    "heading": "Euroopa aeg",
+    "id": 1609463878,
+    "photo": "crop/2024/10/01/2565302hbbaa.jpg",
+    "primaryCategory": 404,
+    "state": 1,
+    "url": "/vikerraadio/1609463878"
+   },
+   {
+    "channelCategoryId": 404,
+    "combinedTime": 0,
+    "domain": "vikerraadio.err.ee",
+    "domainType": "radio",
+    "heading": "Harri Tiido taustajutud",
+    "id": 1131212,
+    "photo": "crop/2026/09/24/3818716h739e.jpg",
+    "primaryCategory": 404,
+    "state": 1,
+    "url": "/vikerraadio/1131212"
+   },
+   {
+    "channelCategoryId": 404,
+    "combinedTime": 0,
+    "domain": "vikerraadio.err.ee",
+    "domainType": "radio",
+    "heading": "Heldur Karmo aeg",
+    "id": 1610049724,
+    "photo": "crop/2026/06/19/3666193h8edf.jpg",
+    "primaryCategory": 404,
+    "state": 1,
+    "url": "/vikerraadio/1610049724"
+   }
+  ]
+ },
+ "perPage": 8,
+ "searchResultCount": 94,
+ "status": "success",
+ "totalCount": 271,
+ "totalPages": 12
+}

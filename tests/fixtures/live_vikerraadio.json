@@ -1,0 +1,45 @@
+{
+ "config": {
+  "autoload": true,
+  "autoplay": true,
+  "categoryUrl": "vikerraadio",
+  "domain": "otse.err.ee",
+  "drm": {
+   "initBySchedule": true,
+   "jwt": "<redacted>",
+   "licenseServerUrls": {
+    "fairPlay": "https://drm-fairplay-licensing.axprod.net/AcquireLicense",
+    "playReady": "https://drm-playready-licensing.axprod.net/AcquireLicense",
+    "widevine": "https://drm-widevine-licensing.axprod.net/AcquireLicense"
+   },
+   "srcs": false
+  },
+  "emorpath": "vikerraadio/otse",
+  "gemiusId": "ncnglD8Qo4mte0ij2ZohJJSr354upCNY9RPkiI9k.Qb.P7",
+  "imgSrc": "https://s.err.ee/photo/crop/2023/11/23/2160406he947t37.jpg",
+  "isGeoBlocked": false,
+  "live": true,
+  "mediaId": "VIKERRAADIO-live",
+  "mediaType": "audio",
+  "ndvr": 1,
+  "schedule": {
+   "url": "/api/radioSchedule/getExactSchedules?type=player&channel=vikerraadio"
+  },
+  "seriesName": "VIKERRAADIO",
+  "title": "VIKERRAADIO",
+  "type": "video",
+  "typologyName": "vikerraadio-live"
+ },
+ "isSpecial": false,
+ "nameId": "vikerraadio",
+ "overflow": [],
+ "overflowEst": [],
+ "overflowGb": [],
+ "serverDate": "2026-09-12T01:16:59+03:00",
+ "src": "//live.err.ee/live/vikerraadio.m3u8",
+ "srcDash": "http://striimid.err.ee:80/live/vikerraadio/manifest.mpd",
+ "threshold": 4000,
+ "thresholdReached": false,
+ "ttl": 474,
+ "typologyGroup": "ERR_services"
+}

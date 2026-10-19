@@ -1,0 +1,418 @@
+{
+ "video": {
+  "contents": [
+   {
+    "anotherDomainContent": true,
+    "canonicalUrl": "https://jupiter.err.ee/1609179440",
+    "episode": 3,
+    "fancyUrl": "tantsutudrukud",
+    "heading": "Tantsutüdrukud | Naised vananevad, mehed jahenevad | 3. osa",
+    "horizontalPhotos": [
+     {
+      "authorEn": "",
+      "authorEt": "pressimaterjal",
+      "authorRu": "",
+      "captionEn": "",
+      "captionEt": "Tantsutüdrukud ep3",
+      "captionRu": "",
+      "created": 1704716393,
+      "format": "jpg",
+      "id": 2207026,
+      "ord": 0,
+      "photoTypes": {
+       "1": {
+        "h": 80,
+        "type": 1,
+        "url": "https://s.err.ee/photo/crop/2024/01/08/2207026hab58t1.jpg",
+        "w": 120
+       },
+       "17": {
+        "h": 338,
+        "type": 17,
+        "url": "https://s.err.ee/photo/crop/2024/01/08/2207026ha2b9t17.jpg",
+        "w": 600
+       },
+       "26": {
+        "h": 225,
+        "type": 26,
+        "url": "https://s.err.ee/photo/crop/2024/01/08/2207026h4d0dt26.jpg",
+        "w": 400
+       },
+       "34": {
+        "h": 182,
+        "type": 34,
+        "url": "https://s.err.ee/photo/crop/2024/01/08/2207026h4801t34.jpg",
+        "w": 324
+       }
+      },
+      "photoUrlBase": "https://s.err.ee/photo/crop/2024/01/08/2207026h1c86.jpg",
+      "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/01/08/2207026h1c86.jpg",
+      "type": 0,
+      "version": 1
+     }
+    ],
+    "id": 1609179440,
+    "parentContentId": 1609179431,
+    "parentContentPath": "[1609179431]",
+    "photos": [
+     {
+      "authorEn": "",
+      "authorEt": "pressimaterjal",
+      "authorRu": "",
+      "captionEn": "",
+      "captionEt": "Tantsutüdrukud ep3",
+      "captionRu": "",
+      "created": 1704716393,
+      "format": "jpg",
+      "id": 2207026,
+      "ord": 0,
+      "photoTypes": {
+       "1": {
+        "h": 80,
+        "type": 1,
+        "url": "https://s.err.ee/photo/crop/2024/01/08/2207026hab58t1.jpg",
+        "w": 120
+       },
+       "49": {
+        "h": 80,
+        "type": 49,
+        "url": "https://s.err.ee/photo/crop/2024/01/08/2207026hf9fbt49.jpg",
+        "w": 0
+       },
+       "60": {
+        "h": 270,
+        "type": 60,
+        "url": "https://s.err.ee/photo/crop/2024/01/08/2207026hf55et60.jpg",
+        "w": 180
+       }
+      },
+      "photoUrlBase": "https://s.err.ee/photo/crop/2024/01/08/2207026h1c86.jpg",
+      "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/01/08/2207026h1c86.jpg",
+      "type": 0,
+      "version": 1
+     }
+    ],
+    "primaryCategory": {
+     "allowContentPhoto": 1,
+     "analyticsId": "UA-21111330-48",
+     "backgroundPhotoId": null,
+     "color": "#000000",
+     "commenting": 2,
+     "contentVisible": 0,
+     "coverPhotoId": null,
+     "coverPhotoUrl": null,
+     "depth": 3,
+     "disableScanpix": 0,
+     "domain": "jupiter.err.ee",
+     "domainType": "vod",
+     "eMail": "",
+     "fullCoverPhoto": null,
+     "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+     "host": null,
+     "id": 4423,
+     "idec": "000000",
+     "isPodcast": 0,
+     "lang": "1",
+     "lead": "",
+     "lft": 2994,
+     "musicStyle": 1,
+     "name": "Komöödia",
+     "newsSiteUrl": "",
+     "parentId": 4136,
+     "passive": 0,
+     "photoId": "2350764",
+     "postToSocialmedia": 0,
+     "radiomanId": "",
+     "relativePath": "Jupiter > Video > Sarjad > Komöödia",
+     "rgt": 2995,
+     "rootCategoryId": 3905,
+     "slogan": null,
+     "springId": null,
+     "type": 1,
+     "url": "sarjad-komoodia"
+    },
+    "primaryCategoryId": 4423,
+    "publicStart": 1701260400,
+    "rootCategoryId": 3905,
+    "rootContentId": 1609179431,
+    "scheduleStart": 1789160400,
+    "season": 1,
+    "squarePhotos": [],
+    "subHeading": "Naised vananevad, mehed jahenevad",
+    "type": "episode",
+    "url": "https://jupiter.err.ee/1609179440/tantsutudrukud",
+    "verticalPhotos": []
+   },
+   {
+    "anotherDomainContent": true,
+    "canonicalUrl": "https://jupiter.err.ee/1608818497",
+    "episode": 8,
+    "fancyUrl": "legend-eluajal",
+    "heading": "Legend eluajal | Lahkumisavaldus | 8. osa",
+    "horizontalPhotos": [
+     {
+      "authorEn": "",
+      "authorEt": "Kairit Leibold/ERR",
+      "authorRu": "",
+      "captionEn": "",
+      "captionEt": "\"Legend eluajal\"",
+      "captionRu": "",
+      "created": 1672213535,
+      "format": "jpg",
+      "id": 1726600,
+      "ord": 0,
+      "photoTypes": {
+       "1": {
+        "h": 80,
+        "type": 1,
+        "url": "https://s.err.ee/photo/crop/2022/12/28/1726600h8bf3t1.jpg",
+        "w": 120
+       },
+       "17": {
+        "h": 338,
+        "type": 17,
+        "url": "https://s.err.ee/photo/crop/2022/12/28/1726600h2d76t17.jpg",
+        "w": 600
+       },
+       "26": {
+        "h": 225,
+        "type": 26,
+        "url": "https://s.err.ee/photo/crop/2022/12/28/1726600h6505t26.jpg",
+        "w": 400
+       },
+       "34": {
+        "h": 182,
+        "type": 34,
+        "url": "https://s.err.ee/photo/crop/2022/12/28/1726600h0bedt34.jpg",
+        "w": 324
+       }
+      },
+      "photoUrlBase": "https://s.err.ee/photo/crop/2022/12/28/1726600h2b76.jpg",
+      "photoUrlOriginal": "https://s.err.ee/photo/orig/2022/12/28/1726600h2b76.jpg",
+      "type": 0,
+      "version": 1
+     }
+    ],
+    "id": 1608818497,
+    "parentContentId": 1608818473,
+    "parentContentPath": "[1608818473]",
+    "photos": [
+     {
+      "authorEn": "",
+      "authorEt": "Kairit Leibold/ERR",
+      "authorRu": "",
+      "captionEn": "",
+      "captionEt": "\"Legend eluajal\"",
+      "captionRu": "",
+      "created": 1672213535,
+      "format": "jpg",
+      "id": 1726600,
+      "ord": 0,
+      "photoTypes": {
+       "1": {
+        "h": 80,
+        "type": 1,
+        "url": "https://s.err.ee/photo/crop/2022/12/28/1726600h8bf3t1.jpg",
+        "w": 120
+       },
+       "49": {
+        "h": 80,
+        "type": 49,
+        "url": "https://s.err.ee/photo/crop/2022/12/28/1726600h906ct49.jpg",
+        "w": 0
+       },
+       "60": {
+        "h": 270,
+        "type": 60,
+        "url": "https://s.err.ee/photo/crop/2022/12/28/1726600hf0d9t60.jpg",
+        "w": 180
+       }
+      },
+      "photoUrlBase": "https://s.err.ee/photo/crop/2022/12/28/1726600h2b76.jpg",
+      "photoUrlOriginal": "https://s.err.ee/photo/orig/2022/12/28/1726600h2b76.jpg",
+      "type": 0,
+      "version": 1
+     }
+    ],
+    "primaryCategory": {
+     "allowContentPhoto": 1,
+     "analyticsId": "UA-21111330-48",
+     "backgroundPhotoId": null,
+     "color": "#000000",
+     "commenting": 2,
+     "contentVisible": 0,
+     "coverPhotoId": null,
+     "coverPhotoUrl": null,
+     "depth": 3,
+     "disableScanpix": 0,
+     "domain": "jupiter.err.ee",
+     "domainType": "vod",
+     "eMail": "",
+     "fullCoverPhoto": null,
+     "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+     "host": null,
+     "id": 4423,
+     "idec": "000000",
+     "isPodcast": 0,
+     "lang": "1",
+     "lead": "",
+     "lft": 2994,
+     "musicStyle": 1,
+     "name": "Komöödia",
+     "newsSiteUrl": "",
+     "parentId": 4136,
+     "passive": 0,
+     "photoId": "2350764",
+     "postToSocialmedia": 0,
+     "radiomanId": "",
+     "relativePath": "Jupiter > Video > Sarjad > Komöödia",
+     "rgt": 2995,
+     "rootCategoryId": 3905,
+     "slogan": null,
+     "springId": null,
+     "type": 1,
+     "url": "sarjad-komoodia"
+    },
+    "primaryCategoryId": 4423,
+    "publicStart": 1670923800,
+    "rootCategoryId": 3905,
+    "rootContentId": 1608818473,
+    "scheduleStart": 1789159500,
+    "season": 1,
+    "squarePhotos": [],
+    "subHeading": "Lahkumisavaldus",
+    "type": "episode",
+    "url": "https://jupiter.err.ee/1608818497/legend-eluajal",
+    "verticalPhotos": []
+   },
+   {
+    "anotherDomainContent": true,
+    "canonicalUrl": "https://jupiter.err.ee/1609782194",
+    "episode": 0,
+    "fancyUrl": "kummardus-arvo-pardile-paavo-jarvi-ja-eesti-festivaliorkester",
+    "heading": "Kummardus Arvo Pärdile. Paavo Järvi ja Eesti Festivaliorkester",
+    "horizontalPhotos": [],
+    "id": 1609782194,
+    "parentContentId": 0,
+    "parentContentPath": "[]",
+    "photos": [
+     {
+      "authorEn": "",
+      "authorEt": "Kaupo Kikkas",
+      "authorRu": "Kaupo Kikkas",
+      "captionEn": "",
+      "captionEt": "Arvo Pärt ja Paavo Järvi",
+      "captionRu": "Пааво Ярви и Арво Пярт",
+      "created": 1694426966,
+      "format": "jpg",
+      "id": 2072636,
+      "ord": 0,
+      "photoTypes": {
+       "1": {
+        "h": 80,
+        "type": 1,
+        "url": "https://s.err.ee/photo/crop/2023/09/11/2072636h5170t1.jpg",
+        "w": 120
+       },
+       "49": {
+        "h": 80,
+        "type": 49,
+        "url": "https://s.err.ee/photo/crop/2023/09/11/2072636h60dbt49.jpg",
+        "w": 0
+       },
+       "60": {
+        "h": 270,
+        "type": 60,
+        "url": "https://s.err.ee/photo/crop/2023/09/11/2072636h1520t60.jpg",
+        "w": 180
+       }
+      },
+      "photoUrlBase": "https://s.err.ee/photo/crop/2023/09/11/2072636h056f.jpg",
+      "photoUrlOriginal": "https://s.err.ee/photo/orig/2023/09/11/2072636h056f.jpg",
+      "type": 2,
+      "version": 1
+     }
+    ],
+    "primaryCategory": {
+     "allowContentPhoto": 1,
+     "analyticsId": "UA-21111330-48",
+     "backgroundPhotoId": null,
+     "color": "#000000",
+     "commenting": 2,
+     "contentVisible": 0,
+     "coverPhotoId": null,
+     "coverPhotoUrl": null,
+     "depth": 1,
+     "disableScanpix": 0,
+     "domain": "jupiter.err.ee",
+     "domainType": "vod",
+     "eMail": "",
+     "fullCoverPhoto": null,
+     "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+     "host": null,
+     "id": 3199,
+     "idec": "000000",
+     "isPodcast": 0,
+     "lang": "1",
+     "lead": "",
+     "lft": 2728,
+     "musicStyle": 1,
+     "name": "ETV saated",
+     "newsSiteUrl": "",
+     "parentId": 3905,
+     "passive": 0,
+     "photoId": "2350764",
+     "postToSocialmedia": 0,
+     "radiomanId": "",
+     "relativePath": "Jupiter > ETV saated",
+     "rgt": 2729,
+     "rootCategoryId": 3199,
+     "slogan": null,
+     "springId": null,
+     "type": 1,
+     "url": "etv-kategooriata-saated"
+    },
+    "primaryCategoryId": 3199,
+    "publicStart": 1756394400,
+    "rootCategoryId": 3905,
+    "rootContentId": 0,
+    "scheduleStart": 1789156800,
+    "season": 0,
+    "squarePhotos": [],
+    "subHeading": "",
+    "type": "movie",
+    "url": "https://jupiter.err.ee/1609782194/kummardus-arvo-pardile-paavo-jarvi-ja-eesti-festivaliorkester",
+    "verticalPhotos": [
+     {
+      "authorEn": "",
+      "authorEt": "",
+      "authorRu": "",
+      "captionEn": "",
+      "captionEt": "Kummardus Arvo Pärdile. Paavo Järvi ja Eesti Festivaliorkester",
+      "captionRu": "",
+      "created": 1757580680,
+      "format": "jpg",
+      "id": 3009078,
+      "ord": 0,
+      "photoTypes": {
+       "1": {
+        "h": 80,
+        "type": 1,
+        "url": "https://s.err.ee/photo/crop/2025/09/11/3009078h90fbt1.jpg",
+        "w": 120
+       }
+      },
+      "photoUrlBase": "https://s.err.ee/photo/crop/2025/09/11/3009078had7e.jpg",
+      "photoUrlOriginal": "https://s.err.ee/photo/orig/2025/09/11/3009078had7e.jpg",
+      "type": 1,
+      "version": 0
+     }
+    ]
+   }
+  ],
+  "limit": 10,
+  "page": 1,
+  "totalFound": 10000,
+  "type": "video"
+ }
+}

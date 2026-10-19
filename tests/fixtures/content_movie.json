@@ -1,0 +1,691 @@
+{
+ "apiVersion": "2.0",
+ "data": {
+  "category": [
+   {
+    "allowContentPhoto": 1,
+    "analyticsId": "UA-21111330-48",
+    "backgroundPhotoId": null,
+    "color": "#000000",
+    "commenting": 2,
+    "contentVisible": 0,
+    "coverPhotoId": null,
+    "coverPhotoUrl": null,
+    "depth": 3,
+    "disableScanpix": 0,
+    "domain": "jupiter.err.ee",
+    "domainType": "vod",
+    "eMail": "",
+    "fullCoverPhoto": null,
+    "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+    "host": null,
+    "id": 4441,
+    "idec": "000000",
+    "isPodcast": 0,
+    "lang": "1",
+    "lead": "",
+    "lft": 2896,
+    "musicStyle": 1,
+    "name": "Eesti",
+    "newsSiteUrl": "",
+    "parentId": 4137,
+    "passive": 0,
+    "photoId": "2350764",
+    "postToSocialmedia": 0,
+    "radiomanId": "",
+    "relativePath": "Jupiter > Video > Filmid > Eesti",
+    "rgt": 2897,
+    "rootCategoryId": 3905,
+    "slogan": null,
+    "springId": null,
+    "type": 1,
+    "typologyPath": "jupiter/video/filmid/eesti",
+    "url": "eesti"
+   },
+   {
+    "allowContentPhoto": 1,
+    "analyticsId": "UA-21111330-48",
+    "backgroundPhotoId": null,
+    "color": "#000000",
+    "commenting": 2,
+    "contentVisible": 0,
+    "coverPhotoId": null,
+    "coverPhotoUrl": null,
+    "depth": 3,
+    "disableScanpix": 0,
+    "domain": "jupiter.err.ee",
+    "domainType": "vod",
+    "eMail": "",
+    "fullCoverPhoto": null,
+    "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+    "host": null,
+    "id": 4431,
+    "idec": "000000",
+    "isPodcast": 0,
+    "lang": "1",
+    "lead": "",
+    "lft": 2894,
+    "musicStyle": 1,
+    "name": "Draama",
+    "newsSiteUrl": "",
+    "parentId": 4137,
+    "passive": 0,
+    "photoId": "2350764",
+    "postToSocialmedia": 0,
+    "radiomanId": "",
+    "relativePath": "Jupiter > Video > Filmid > Draama",
+    "rgt": 2895,
+    "rootCategoryId": 3905,
+    "slogan": null,
+    "springId": null,
+    "type": 1,
+    "typologyPath": "jupiter/video/filmid/draama",
+    "url": "draama"
+   },
+   {
+    "allowContentPhoto": 1,
+    "analyticsId": "UA-21111330-48",
+    "backgroundPhotoId": null,
+    "color": "#000000",
+    "commenting": 2,
+    "contentVisible": 0,
+    "coverPhotoId": null,
+    "coverPhotoUrl": null,
+    "depth": 3,
+    "disableScanpix": 0,
+    "domain": "jupiter.err.ee",
+    "domainType": "vod",
+    "eMail": "",
+    "fullCoverPhoto": null,
+    "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+    "host": null,
+    "id": 4509,
+    "idec": "000000",
+    "isPodcast": 0,
+    "lang": "1",
+    "lead": "",
+    "lft": 2902,
+    "musicStyle": 1,
+    "name": "Klassika",
+    "newsSiteUrl": "",
+    "parentId": 4137,
+    "passive": 0,
+    "photoId": "2350764",
+    "postToSocialmedia": 0,
+    "radiomanId": "",
+    "relativePath": "Jupiter > Video > Filmid > Klassika",
+    "rgt": 2903,
+    "rootCategoryId": 3905,
+    "slogan": null,
+    "springId": null,
+    "type": 1,
+    "typologyPath": "jupiter/video/filmid/klassika",
+    "url": "klassika"
+   }
+  ],
+  "categoryContents": [],
+  "futureContent": [],
+  "mainContent": {
+   "anotherDomainContent": true,
+   "body": "",
+   "bodyGalleries": [],
+   "bodyMedias": [],
+   "bodyPhotos": [],
+   "bodyTrustedHtmls": [],
+   "canonicalUrl": "https://jupiter.err.ee/1608205081",
+   "clips": [],
+   "color": "#000000",
+   "commenting": 2,
+   "contentOrder": 0,
+   "country": "Tallinnfilm",
+   "created": 1620380400,
+   "editor": "",
+   "episode": 0,
+   "fancyUrl": "libahunt",
+   "formatedTimes": {
+    "created": "07.05.2021 12:40",
+    "dayShortName": "P",
+    "programStart": "31.03.2024",
+    "publicStart": "07.05.2021 12:40",
+    "scheduleStart": "31.03.2024 22:20",
+    "shortScheduleStart": "31.03.2024",
+    "updated": "07.05.2021 12:40"
+   },
+   "galleries": [],
+   "heading": "Libahunt",
+   "horizontalPhotos": [],
+   "id": 1608205081,
+   "iframeMediaUrl": "",
+   "lastChangedBy": 76492,
+   "lead": "<p>Tuulisel talveõhtul toob Tammaru talu perenaine majja teelt leitud hirmunud ja poolkülmunud tüdruku Tiina. Tema ema, keda süüdistati nõidumises, oli just kiriku juures häbipostis surnuks pekstud. Üles kasvades külvab rõõmsaloomuline tüdruk endasse sulgunud külakeses segadust. Kui panuseks on perepoeg Marguse armastus, meenutab lapsepõlve mängukaaslane Mari külarahvale valusalt Tiina minevikku.</p>\n<p>Nagu lugematud teatrilavastajad enne teda, on ka Leida Laius pöördunud Libahundi-radadele. Filmi eeliseid kasutades ei pea režissöör kinni ajalisest järgnevusest, keskendudes pigem ohjeldamatu tüdruku vastasseisule umbuskliku ja kinnise külarahvaga. Võrdluses pähesööbinud Kitzbergi looga kasutab ja varieerib Laiuse \"Libahunt\" ideid võrdlemisi vabalt.</p>\n<p>Filmi atmosfääri toetab tõhusalt Veljo Tormise muusika.</p>\n<p>Osades Ene Rämmeld, Doris Kareva, Evald Hermaküla, Malle Klaassen jt.</p>",
+   "makers": [
+    {
+     "name": "Leida Laius",
+     "type": "Autor",
+     "typeId": 15
+    },
+    {
+     "name": "Lennart Meri",
+     "type": "Toimetaja",
+     "typeId": 14
+    },
+    {
+     "name": "Leida Laius",
+     "type": "Režissöör",
+     "typeId": 10
+    }
+   ],
+   "medias": [
+    {
+     "4k": 0,
+     "bodyEn": null,
+     "bodyEt": null,
+     "bodyRu": null,
+     "cacheIndex": 0,
+     "catchupDays": 28,
+     "embedDisabled": 0,
+     "fhd": 1,
+     "file": "2002-011834-0001_0004_XHD_LIBAHUNT_ERR.mp4",
+     "filename": "2002-011834-0001_0004_XHD_LIBAHUNT_ERR.mp4",
+     "folder": "vod",
+     "hd": 1,
+     "headingEn": "",
+     "headingEt": "",
+     "headingRu": "",
+     "id": 1271437,
+     "isPg": false,
+     "jwt": null,
+     "ld": 0,
+     "licenseServerUrl": {
+      "fairPlay": "https://drm-fairplay-licensing.axprod.net/AcquireLicense",
+      "playReady": "https://drm-playready-licensing.axprod.net/AcquireLicense",
+      "widevine": "https://drm-widevine-licensing.axprod.net/AcquireLicense"
+     },
+     "mediaHash": null,
+     "mediaId": 1271437,
+     "mediaInfo": {
+      "aspectRatio": "16:9",
+      "duration": "4235"
+     },
+     "mediaRadiomanId": 0,
+     "ord": 0,
+     "periods": [
+      {
+       "publicEnd": 1644966827,
+       "publicStart": 1642374827,
+       "vodReqId": 10601200834
+      },
+      {
+       "publicEnd": 1681851600,
+       "publicStart": 1679263200,
+       "vodReqId": 10493963491
+      },
+      {
+       "publicEnd": 1714509188,
+       "publicStart": 1711917188,
+       "vodReqId": 10978042505
+      },
+      {
+       "publicEnd": 1791579600,
+       "publicStart": 1789074000,
+       "vodReqId": 11364977326
+      }
+     ],
+     "photoId": 0,
+     "photos": [],
+     "podcastUrl": "",
+     "publicEnd": 0,
+     "restrictions": {
+      "drm": false,
+      "geoBlock": false
+     },
+     "sd": 1,
+     "skd": "",
+     "src": {
+      "dash": "//vod.err.ee/dash/vod/1271437/2/v/manifest.mpd",
+      "dashNew": "//vod.err.ee/dash/vod/1271437/2/v/manifest.mpd",
+      "dashNoSub": "//vod.err.ee/dash/vod/1271437/2/v/nosub/manifest.mpd",
+      "file": "//vod.err.ee/file/vod/1271437.mp4",
+      "hls": "//vod.err.ee/hls/vod/1271437/2/v/master.m3u8",
+      "hls2": "//vod.err.ee/hls/vod/1271437/2/v/master.m3u8",
+      "hlsNew": "//vod.err.ee/hls/vod/1271437/2/v/master.m3u8",
+      "hlsNoSub": "//vod.err.ee/hls/vod/1271437/2/v/nosub/master.m3u8",
+      "id": 1271437,
+      "ratio": "16:9"
+     },
+     "subtitles": [
+      {
+       "exported": 1,
+       "filename": "231795_VA.vtt",
+       "id": 0,
+       "name": "eesti",
+       "src": "https://services.err.ee/subtitles/file/231795/231795_VA.vtt",
+       "srclang": "VA",
+       "subId": 231795,
+       "version": 1
+      }
+     ],
+     "type": "video",
+     "version": 1,
+     "versionId": 10215073591
+    }
+   ],
+   "originalTitle": "",
+   "parentContentId": 0,
+   "parentContentPath": "[]",
+   "photos": [
+    {
+     "created": 1586768824,
+     "format": "jpg",
+     "id": 769180,
+     "ord": 0,
+     "photoTypes": {
+      "1": {
+       "h": 80,
+       "type": 1,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hd1e2t1.jpg",
+       "w": 120
+      },
+      "11": {
+       "h": 60,
+       "type": 11,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h1601t11.jpg",
+       "w": 96
+      },
+      "15": {
+       "h": 0,
+       "type": 15,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hc61dt15.jpg",
+       "w": 800
+      },
+      "16": {
+       "h": 0,
+       "type": 16,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hdd87t16.jpg",
+       "w": 1000
+      },
+      "2": {
+       "h": 1080,
+       "type": 2,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h5ef5t2.jpg",
+       "w": 1920
+      },
+      "22": {
+       "h": 195,
+       "type": 22,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hb61at22.jpg",
+       "w": 312
+      },
+      "24": {
+       "h": 0,
+       "type": 24,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h7484t24.jpg",
+       "w": 672
+      },
+      "26": {
+       "h": 225,
+       "type": 26,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h6f32t26.jpg",
+       "w": 400
+      },
+      "37": {
+       "h": 0,
+       "type": 37,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hefa9t37.jpg",
+       "w": 1440
+      },
+      "44": {
+       "h": 200,
+       "type": 44,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h8dfat44.jpg",
+       "w": 200
+      },
+      "46": {
+       "h": 1920,
+       "type": 46,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h6752t46.jpg",
+       "w": 1920
+      },
+      "47": {
+       "h": 1440,
+       "type": 47,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h4a8et47.jpg",
+       "w": 1920
+      },
+      "48": {
+       "h": 810,
+       "type": 48,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h8945t48.jpg",
+       "w": 1440
+      },
+      "49": {
+       "h": 80,
+       "type": 49,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hc776t49.jpg",
+       "w": 0
+      },
+      "52": {
+       "h": 16,
+       "type": 52,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hfc54t52.jpg",
+       "w": 32
+      },
+      "6": {
+       "h": 500,
+       "type": 6,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h6cb2t6.jpg",
+       "w": 800
+      },
+      "60": {
+       "h": 270,
+       "type": 60,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hc44at60.jpg",
+       "w": 180
+      },
+      "61": {
+       "h": 432,
+       "type": 61,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hc626t61.jpg",
+       "w": 768
+      },
+      "62": {
+       "h": 1030,
+       "type": 62,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h781at62.jpg",
+       "w": 1648
+      },
+      "64": {
+       "h": 515,
+       "type": 64,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180ha7eat64.jpg",
+       "w": 824
+      },
+      "65": {
+       "h": 370,
+       "type": 65,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h6c6dt65.jpg",
+       "w": 592
+      },
+      "66": {
+       "h": 185,
+       "type": 66,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hd0dct66.jpg",
+       "w": 296
+      },
+      "67": {
+       "h": 168,
+       "type": 67,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h8d35t67.jpg",
+       "w": 168
+      },
+      "68": {
+       "h": 84,
+       "type": 68,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180hd5adt68.jpg",
+       "w": 84
+      },
+      "69": {
+       "h": 980,
+       "type": 69,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h29bft69.jpg",
+       "w": 1568
+      },
+      "70": {
+       "h": 490,
+       "type": 70,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h0a7bt70.jpg",
+       "w": 784
+      },
+      "71": {
+       "h": 1270,
+       "type": 71,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h8960t71.jpg",
+       "w": 2032
+      },
+      "72": {
+       "h": 635,
+       "type": 72,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h4bc6t72.jpg",
+       "w": 1016
+      },
+      "8": {
+       "h": 250,
+       "type": 8,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h2e89t8.jpg",
+       "w": 400
+      },
+      "80": {
+       "h": 600,
+       "type": 80,
+       "url": "https://s.err.ee/photo/crop/2020/04/13/769180h5bbdt80.jpg",
+       "w": 400
+      }
+     },
+     "photoUrlBase": "https://s.err.ee/photo/crop/2020/04/13/769180he82c.jpg",
+     "photoUrlOriginal": "https://s.err.ee/photo/orig/2020/04/13/769180he82c.jpg",
+     "type": 2,
+     "version": 1
+    }
+   ],
+   "polls": [],
+   "primaryCategoryId": 4441,
+   "progId": 10008130186,
+   "publicStart": 1620380400,
+   "radiomanId": 0,
+   "relatedRadiomanIds": [],
+   "rootCategoryId": 3905,
+   "rootContentId": 0,
+   "scheduleStart": 1711912800,
+   "season": 0,
+   "seriesType": 0,
+   "squarePhotos": [],
+   "statsHeading": "Libahunt",
+   "statsSeriesTitle": "",
+   "subHeading": "",
+   "txReqId": 1,
+   "type": "movie",
+   "updated": 1620380400,
+   "url": "https://jupiter.err.ee/1608205081/libahunt",
+   "verticalPhotos": [
+    {
+     "created": 1711359558,
+     "format": "jpg",
+     "id": 2321775,
+     "ord": 0,
+     "photoTypes": {
+      "1": {
+       "h": 80,
+       "type": 1,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h06c0t1.jpg",
+       "w": 120
+      },
+      "11": {
+       "h": 60,
+       "type": 11,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h579bt11.jpg",
+       "w": 96
+      },
+      "15": {
+       "h": 0,
+       "type": 15,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h5d9ct15.jpg",
+       "w": 800
+      },
+      "16": {
+       "h": 0,
+       "type": 16,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hda9ct16.jpg",
+       "w": 1000
+      },
+      "2": {
+       "h": 1080,
+       "type": 2,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hee6dt2.jpg",
+       "w": 1920
+      },
+      "22": {
+       "h": 195,
+       "type": 22,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hcce6t22.jpg",
+       "w": 312
+      },
+      "24": {
+       "h": 0,
+       "type": 24,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775he9d8t24.jpg",
+       "w": 672
+      },
+      "26": {
+       "h": 225,
+       "type": 26,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h1bd3t26.jpg",
+       "w": 400
+      },
+      "37": {
+       "h": 0,
+       "type": 37,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h1cd8t37.jpg",
+       "w": 1440
+      },
+      "44": {
+       "h": 200,
+       "type": 44,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775ha39bt44.jpg",
+       "w": 200
+      },
+      "46": {
+       "h": 1920,
+       "type": 46,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hf61at46.jpg",
+       "w": 1920
+      },
+      "47": {
+       "h": 1440,
+       "type": 47,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hdff2t47.jpg",
+       "w": 1920
+      },
+      "48": {
+       "h": 810,
+       "type": 48,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h31d2t48.jpg",
+       "w": 1440
+      },
+      "49": {
+       "h": 80,
+       "type": 49,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h8b5ft49.jpg",
+       "w": 0
+      },
+      "52": {
+       "h": 16,
+       "type": 52,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hf668t52.jpg",
+       "w": 32
+      },
+      "6": {
+       "h": 500,
+       "type": 6,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h875dt6.jpg",
+       "w": 800
+      },
+      "60": {
+       "h": 270,
+       "type": 60,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h2f45t60.jpg",
+       "w": 180
+      },
+      "61": {
+       "h": 432,
+       "type": 61,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h87b7t61.jpg",
+       "w": 768
+      },
+      "62": {
+       "h": 1030,
+       "type": 62,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hda8dt62.jpg",
+       "w": 1648
+      },
+      "64": {
+       "h": 515,
+       "type": 64,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h8749t64.jpg",
+       "w": 824
+      },
+      "65": {
+       "h": 370,
+       "type": 65,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h9ec6t65.jpg",
+       "w": 592
+      },
+      "66": {
+       "h": 185,
+       "type": 66,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hb025t66.jpg",
+       "w": 296
+      },
+      "67": {
+       "h": 168,
+       "type": 67,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hbf8ft67.jpg",
+       "w": 168
+      },
+      "68": {
+       "h": 84,
+       "type": 68,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hbf7bt68.jpg",
+       "w": 84
+      },
+      "69": {
+       "h": 980,
+       "type": 69,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h8ba6t69.jpg",
+       "w": 1568
+      },
+      "70": {
+       "h": 490,
+       "type": 70,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h1aa9t70.jpg",
+       "w": 784
+      },
+      "71": {
+       "h": 1270,
+       "type": 71,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775hfdcet71.jpg",
+       "w": 2032
+      },
+      "72": {
+       "h": 635,
+       "type": 72,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h687at72.jpg",
+       "w": 1016
+      },
+      "8": {
+       "h": 250,
+       "type": 8,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775he760t8.jpg",
+       "w": 400
+      },
+      "80": {
+       "h": 600,
+       "type": 80,
+       "url": "https://s.err.ee/photo/crop/2024/03/25/2321775h31f9t80.jpg",
+       "w": 400
+      }
+     },
+     "photoUrlBase": "https://s.err.ee/photo/crop/2024/03/25/2321775hba7a.jpg",
+     "photoUrlOriginal": "https://s.err.ee/photo/orig/2024/03/25/2321775hba7a.jpg",
+     "type": 1,
+     "version": 0
+    }
+   ],
+   "vodSiteContent": "video",
+   "vodSiteDomain": "jupiter.err.ee",
+   "vodSiteUrl": "https://jupiter.err.ee/1608205081/libahunt",
+   "year": "1968"
+  },
+  "pageType": "movie",
+  "seasonList": []
+ }
+}

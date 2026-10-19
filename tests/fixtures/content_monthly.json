@@ -1,0 +1,1130 @@
+{
+ "apiVersion": "2.0",
+ "data": {
+  "category": [
+   {
+    "allowContentPhoto": 1,
+    "analyticsId": "UA-21111330-48",
+    "backgroundPhotoId": null,
+    "color": "#000000",
+    "commenting": 2,
+    "contentVisible": 0,
+    "coverPhotoId": null,
+    "coverPhotoUrl": null,
+    "depth": 2,
+    "disableScanpix": 0,
+    "domain": "jupiter.err.ee",
+    "domainType": "vod",
+    "eMail": "",
+    "fullCoverPhoto": null,
+    "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+    "host": null,
+    "id": 4135,
+    "idec": "000000",
+    "isPodcast": 0,
+    "lang": "1",
+    "lead": "",
+    "lft": 2939,
+    "musicStyle": 1,
+    "name": "Saated",
+    "newsSiteUrl": "",
+    "parentId": 4133,
+    "passive": 0,
+    "photoId": "2350764",
+    "postToSocialmedia": 0,
+    "radiomanId": "",
+    "relativePath": "Jupiter > Video > Saated",
+    "rgt": 2990,
+    "rootCategoryId": 3905,
+    "slogan": null,
+    "springId": null,
+    "type": 1,
+    "typologyPath": "jupiter/video/saated",
+    "url": "v-saated"
+   },
+   {
+    "allowContentPhoto": 1,
+    "analyticsId": "UA-21111330-48",
+    "backgroundPhotoId": null,
+    "color": "#000000",
+    "commenting": 2,
+    "contentVisible": 0,
+    "coverPhotoId": null,
+    "coverPhotoUrl": null,
+    "depth": 3,
+    "disableScanpix": 0,
+    "domain": "jupiter.err.ee",
+    "domainType": "vod",
+    "eMail": "",
+    "fullCoverPhoto": null,
+    "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+    "host": null,
+    "id": 4503,
+    "idec": "000000",
+    "isPodcast": 0,
+    "lang": "1",
+    "lead": "",
+    "lft": 3018,
+    "musicStyle": 1,
+    "name": "Meelelahutus",
+    "newsSiteUrl": "",
+    "parentId": 4498,
+    "passive": 0,
+    "photoId": "2350764",
+    "postToSocialmedia": 0,
+    "radiomanId": "",
+    "relativePath": "Jupiter > Video > Teemad > Meelelahutus",
+    "rgt": 3019,
+    "rootCategoryId": 3905,
+    "slogan": null,
+    "springId": null,
+    "type": 1,
+    "typologyPath": "jupiter/video/teemad/meelelahutus",
+    "url": "meelelahutus"
+   }
+  ],
+  "categoryContents": [],
+  "futureContent": [],
+  "mainContent": {
+   "anotherDomainContent": true,
+   "body": "",
+   "bodyGalleries": [],
+   "bodyMedias": [],
+   "bodyPhotos": [],
+   "bodyTrustedHtmls": [],
+   "canonicalUrl": "https://jupiter.err.ee/1610094335",
+   "clips": [],
+   "color": "#000000",
+   "commenting": 2,
+   "contentOrder": 0,
+   "country": "Eesti",
+   "created": 1785324601,
+   "editor": "",
+   "episode": 28,
+   "fancyUrl": "meie-bingo",
+   "formatedTimes": {
+    "created": "29.07 14:30",
+    "dayShortName": "K",
+    "programStart": "09.09",
+    "publicStart": "29.07 14:30",
+    "scheduleStart": "09.09 21:00",
+    "shortScheduleStart": "09.09",
+    "updated": "Eile, 09:00"
+   },
+   "galleries": [],
+   "heading": "MEIE BINGO!",
+   "horizontalPhotos": [
+    {
+     "created": 1772607009,
+     "format": "jpg",
+     "id": 3236864,
+     "ord": 0,
+     "photoTypes": {
+      "1": {
+       "h": 80,
+       "type": 1,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h91b8t1.jpg",
+       "w": 120
+      },
+      "11": {
+       "h": 60,
+       "type": 11,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h3a7ct11.jpg",
+       "w": 96
+      },
+      "15": {
+       "h": 0,
+       "type": 15,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h46c1t15.jpg",
+       "w": 800
+      },
+      "16": {
+       "h": 0,
+       "type": 16,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864ha96dt16.jpg",
+       "w": 1000
+      },
+      "2": {
+       "h": 1080,
+       "type": 2,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h67b5t2.jpg",
+       "w": 1920
+      },
+      "22": {
+       "h": 195,
+       "type": 22,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hb6a6t22.jpg",
+       "w": 312
+      },
+      "24": {
+       "h": 0,
+       "type": 24,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h8bfbt24.jpg",
+       "w": 672
+      },
+      "26": {
+       "h": 225,
+       "type": 26,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864he1cet26.jpg",
+       "w": 400
+      },
+      "37": {
+       "h": 0,
+       "type": 37,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h43c2t37.jpg",
+       "w": 1440
+      },
+      "44": {
+       "h": 200,
+       "type": 44,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h3a13t44.jpg",
+       "w": 200
+      },
+      "46": {
+       "h": 1920,
+       "type": 46,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h4de4t46.jpg",
+       "w": 1920
+      },
+      "47": {
+       "h": 1440,
+       "type": 47,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h3393t47.jpg",
+       "w": 1920
+      },
+      "48": {
+       "h": 810,
+       "type": 48,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h7148t48.jpg",
+       "w": 1440
+      },
+      "49": {
+       "h": 80,
+       "type": 49,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h3585t49.jpg",
+       "w": 0
+      },
+      "52": {
+       "h": 16,
+       "type": 52,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h8d09t52.jpg",
+       "w": 32
+      },
+      "6": {
+       "h": 500,
+       "type": 6,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h9303t6.jpg",
+       "w": 800
+      },
+      "60": {
+       "h": 270,
+       "type": 60,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h483ft60.jpg",
+       "w": 180
+      },
+      "61": {
+       "h": 432,
+       "type": 61,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h727bt61.jpg",
+       "w": 768
+      },
+      "62": {
+       "h": 1030,
+       "type": 62,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hf9edt62.jpg",
+       "w": 1648
+      },
+      "64": {
+       "h": 515,
+       "type": 64,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h68edt64.jpg",
+       "w": 824
+      },
+      "65": {
+       "h": 370,
+       "type": 65,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hd3bdt65.jpg",
+       "w": 592
+      },
+      "66": {
+       "h": 185,
+       "type": 66,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hf8e5t66.jpg",
+       "w": 296
+      },
+      "67": {
+       "h": 168,
+       "type": 67,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h65b5t67.jpg",
+       "w": 168
+      },
+      "68": {
+       "h": 84,
+       "type": 68,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h9f0ft68.jpg",
+       "w": 84
+      },
+      "69": {
+       "h": 980,
+       "type": 69,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hc29ft69.jpg",
+       "w": 1568
+      },
+      "70": {
+       "h": 490,
+       "type": 70,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hce0ct70.jpg",
+       "w": 784
+      },
+      "71": {
+       "h": 1270,
+       "type": 71,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864ha505t71.jpg",
+       "w": 2032
+      },
+      "72": {
+       "h": 635,
+       "type": 72,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h8849t72.jpg",
+       "w": 1016
+      },
+      "8": {
+       "h": 250,
+       "type": 8,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hcc4bt8.jpg",
+       "w": 400
+      },
+      "80": {
+       "h": 600,
+       "type": 80,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h7d14t80.jpg",
+       "w": 400
+      }
+     },
+     "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/04/3236864h4cf7.jpg",
+     "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/04/3236864h4cf7.jpg",
+     "type": 0,
+     "version": 1
+    }
+   ],
+   "id": 1610094335,
+   "iframeMediaUrl": "",
+   "lastChangedBy": 31507,
+   "lead": "Igas seltskonnas on keegi alati osav ja keegi kultuurne, keegi talub pinget ning kellelgi on alati õnne! Kuid kes see on? Sellele saame vastused saates \"MEIE BINGO!\", kus igal kolmapäeval tuleb külla üks vahva ja värvikas lotomängijate seltskond! Samal ajal saavad ennast proovile panna ka vaatajad kodudes ja selguvad ka Bingo loto võidunumbrid! Saatejuhid Christopher Rajaveer ja Anne Mari Saks.",
+   "makers": [
+    {
+     "name": "Hannela Lippus",
+     "type": "Produtsent",
+     "typeId": 17
+    },
+    {
+     "name": "Christopher Rajaveer",
+     "type": "Saatejuhid",
+     "typeId": 4
+    },
+    {
+     "name": "Anne Mari Saks",
+     "type": "Saatejuhid",
+     "typeId": 4
+    },
+    {
+     "name": "Marit Ummelas",
+     "type": "Toimetaja",
+     "typeId": 14
+    },
+    {
+     "name": "Ove Musting",
+     "type": "Režissöör",
+     "typeId": 10
+    }
+   ],
+   "medias": [
+    {
+     "4k": 0,
+     "bodyEn": null,
+     "bodyEt": "Igas seltskonnas on keegi alati osav ja keegi kultuurne, keegi talub pinget ning kellelgi on alati õnne! Kuid kes see on? Sellele saame vastused saates \"MEIE BINGO!\", kus igal kolmapäeval tuleb külla üks vahva ja värvikas lotomängijate seltskond! Samal ajal saavad ennast proovile panna ka vaatajad kodudes ja selguvad ka Bingo loto võidunumbrid! Saatejuhid Christopher Rajaveer ja Anne Mari Saks.",
+     "bodyRu": "",
+     "cacheIndex": 0,
+     "catchupDays": 99998,
+     "embedDisabled": 0,
+     "fhd": 1,
+     "file": "2026-004688-0028_0001_XHD_MEIE-BINGO_ERR.mp4",
+     "filename": "2026-004688-0028_0001_XHD_MEIE-BINGO_ERR.mp4",
+     "folder": "vod",
+     "hd": 1,
+     "headingEn": "",
+     "headingEt": "MEIE BINGO!*",
+     "headingRu": "",
+     "id": 2540617,
+     "isPg": false,
+     "jwt": null,
+     "ld": 0,
+     "licenseServerUrl": {
+      "fairPlay": "https://drm-fairplay-licensing.axprod.net/AcquireLicense",
+      "playReady": "https://drm-playready-licensing.axprod.net/AcquireLicense",
+      "widevine": "https://drm-widevine-licensing.axprod.net/AcquireLicense"
+     },
+     "mediaHash": "d0caa51cd22411aeb6bdd3f5af28a50a",
+     "mediaId": "d0caa51cd22411aeb6bdd3f5af28a50a",
+     "mediaInfo": {
+      "aspectRatio": "16:9",
+      "duration": "2621"
+     },
+     "mediaRadiomanId": 0,
+     "ord": 0,
+     "periods": [
+      {
+       "publicEnd": 10428893097,
+       "publicStart": 1788979497,
+       "vodReqId": 11368955705
+      },
+      {
+       "publicEnd": 10428950247,
+       "publicStart": 1789036647,
+       "vodReqId": 11366966793
+      }
+     ],
+     "photoId": 0,
+     "photos": [],
+     "podcastUrl": "",
+     "publicEnd": 0,
+     "restrictions": {
+      "drm": false,
+      "geoBlock": false
+     },
+     "sd": 1,
+     "skd": "",
+     "src": {
+      "dash": "//vod.err.ee/dash/vod/d0caa51cd22411aeb6bdd3f5af28a50a/2/v/manifest.mpd",
+      "dashNew": "//vod.err.ee/dash/vod/d0caa51cd22411aeb6bdd3f5af28a50a/2/v/manifest.mpd",
+      "dashNoSub": "//vod.err.ee/dash/vod/d0caa51cd22411aeb6bdd3f5af28a50a/2/v/nosub/manifest.mpd",
+      "file": "//vod.err.ee/file/vod/d0caa51cd22411aeb6bdd3f5af28a50a.mp4",
+      "hls": "//vod.err.ee/hls/vod/d0caa51cd22411aeb6bdd3f5af28a50a/2/v/master.m3u8",
+      "hls2": "//vod.err.ee/hls/vod/d0caa51cd22411aeb6bdd3f5af28a50a/2/v/master.m3u8",
+      "hlsNew": "//vod.err.ee/hls/vod/d0caa51cd22411aeb6bdd3f5af28a50a/2/v/master.m3u8",
+      "hlsNoSub": "//vod.err.ee/hls/vod/d0caa51cd22411aeb6bdd3f5af28a50a/2/v/nosub/master.m3u8",
+      "id": 2540617,
+      "ratio": "16:9"
+     },
+     "subtitles": [
+      {
+       "exported": 1,
+       "filename": "441001_VA.vtt",
+       "id": 0,
+       "name": "eesti",
+       "src": "https://services.err.ee/subtitles/file/441001/441001_VA.vtt",
+       "srclang": "VA",
+       "subId": 441001,
+       "version": 1
+      }
+     ],
+     "type": "video",
+     "version": 1,
+     "versionId": 11369306765
+    }
+   ],
+   "originalTitle": "",
+   "parentContentId": 1609946422,
+   "parentContentPath": "[1609946422]",
+   "photos": [
+    {
+     "created": 1772607009,
+     "format": "jpg",
+     "id": 3236864,
+     "ord": 0,
+     "photoTypes": {
+      "1": {
+       "h": 80,
+       "type": 1,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h91b8t1.jpg",
+       "w": 120
+      },
+      "11": {
+       "h": 60,
+       "type": 11,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h3a7ct11.jpg",
+       "w": 96
+      },
+      "15": {
+       "h": 0,
+       "type": 15,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h46c1t15.jpg",
+       "w": 800
+      },
+      "16": {
+       "h": 0,
+       "type": 16,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864ha96dt16.jpg",
+       "w": 1000
+      },
+      "2": {
+       "h": 1080,
+       "type": 2,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h67b5t2.jpg",
+       "w": 1920
+      },
+      "22": {
+       "h": 195,
+       "type": 22,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hb6a6t22.jpg",
+       "w": 312
+      },
+      "24": {
+       "h": 0,
+       "type": 24,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h8bfbt24.jpg",
+       "w": 672
+      },
+      "26": {
+       "h": 225,
+       "type": 26,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864he1cet26.jpg",
+       "w": 400
+      },
+      "37": {
+       "h": 0,
+       "type": 37,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h43c2t37.jpg",
+       "w": 1440
+      },
+      "44": {
+       "h": 200,
+       "type": 44,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h3a13t44.jpg",
+       "w": 200
+      },
+      "46": {
+       "h": 1920,
+       "type": 46,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h4de4t46.jpg",
+       "w": 1920
+      },
+      "47": {
+       "h": 1440,
+       "type": 47,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h3393t47.jpg",
+       "w": 1920
+      },
+      "48": {
+       "h": 810,
+       "type": 48,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h7148t48.jpg",
+       "w": 1440
+      },
+      "49": {
+       "h": 80,
+       "type": 49,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h3585t49.jpg",
+       "w": 0
+      },
+      "52": {
+       "h": 16,
+       "type": 52,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h8d09t52.jpg",
+       "w": 32
+      },
+      "6": {
+       "h": 500,
+       "type": 6,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h9303t6.jpg",
+       "w": 800
+      },
+      "60": {
+       "h": 270,
+       "type": 60,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h483ft60.jpg",
+       "w": 180
+      },
+      "61": {
+       "h": 432,
+       "type": 61,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h727bt61.jpg",
+       "w": 768
+      },
+      "62": {
+       "h": 1030,
+       "type": 62,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hf9edt62.jpg",
+       "w": 1648
+      },
+      "64": {
+       "h": 515,
+       "type": 64,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h68edt64.jpg",
+       "w": 824
+      },
+      "65": {
+       "h": 370,
+       "type": 65,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hd3bdt65.jpg",
+       "w": 592
+      },
+      "66": {
+       "h": 185,
+       "type": 66,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hf8e5t66.jpg",
+       "w": 296
+      },
+      "67": {
+       "h": 168,
+       "type": 67,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h65b5t67.jpg",
+       "w": 168
+      },
+      "68": {
+       "h": 84,
+       "type": 68,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h9f0ft68.jpg",
+       "w": 84
+      },
+      "69": {
+       "h": 980,
+       "type": 69,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hc29ft69.jpg",
+       "w": 1568
+      },
+      "70": {
+       "h": 490,
+       "type": 70,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hce0ct70.jpg",
+       "w": 784
+      },
+      "71": {
+       "h": 1270,
+       "type": 71,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864ha505t71.jpg",
+       "w": 2032
+      },
+      "72": {
+       "h": 635,
+       "type": 72,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h8849t72.jpg",
+       "w": 1016
+      },
+      "8": {
+       "h": 250,
+       "type": 8,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hcc4bt8.jpg",
+       "w": 400
+      },
+      "80": {
+       "h": 600,
+       "type": 80,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3236864h7d14t80.jpg",
+       "w": 400
+      }
+     },
+     "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/04/3236864h4cf7.jpg",
+     "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/04/3236864h4cf7.jpg",
+     "type": 0,
+     "version": 1
+    }
+   ],
+   "polls": [],
+   "primaryCategoryId": 2864,
+   "progId": 11302536929,
+   "publicStart": 1785324601,
+   "radiomanId": 0,
+   "relatedRadiomanIds": [],
+   "rootCategoryId": 3905,
+   "rootContentId": 1609946422,
+   "scheduleStart": 1788976800,
+   "season": 1,
+   "seriesType": 0,
+   "squarePhotos": [],
+   "statsHeading": "MEIE BINGO! 2026.09.09 21:00",
+   "statsSeriesTitle": "MEIE BINGO!",
+   "subHeading": "",
+   "txReqId": 1,
+   "type": "episode",
+   "updated": 1789106401,
+   "url": "https://jupiter.err.ee/1610094335/meie-bingo",
+   "verticalPhotos": [
+    {
+     "created": 1772644574,
+     "format": "jpg",
+     "id": 3238247,
+     "ord": 0,
+     "photoTypes": {
+      "1": {
+       "h": 80,
+       "type": 1,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h8328t1.jpg",
+       "w": 120
+      },
+      "11": {
+       "h": 60,
+       "type": 11,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247ha824t11.jpg",
+       "w": 96
+      },
+      "15": {
+       "h": 0,
+       "type": 15,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247hc303t15.jpg",
+       "w": 800
+      },
+      "16": {
+       "h": 0,
+       "type": 16,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h431dt16.jpg",
+       "w": 1000
+      },
+      "2": {
+       "h": 1080,
+       "type": 2,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h849et2.jpg",
+       "w": 1920
+      },
+      "22": {
+       "h": 195,
+       "type": 22,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h67f8t22.jpg",
+       "w": 312
+      },
+      "24": {
+       "h": 0,
+       "type": 24,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247ha79et24.jpg",
+       "w": 672
+      },
+      "26": {
+       "h": 225,
+       "type": 26,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h87a7t26.jpg",
+       "w": 400
+      },
+      "37": {
+       "h": 0,
+       "type": 37,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247hb2aft37.jpg",
+       "w": 1440
+      },
+      "44": {
+       "h": 200,
+       "type": 44,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h81f4t44.jpg",
+       "w": 200
+      },
+      "46": {
+       "h": 1920,
+       "type": 46,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h01f2t46.jpg",
+       "w": 1920
+      },
+      "47": {
+       "h": 1440,
+       "type": 47,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h6da9t47.jpg",
+       "w": 1920
+      },
+      "48": {
+       "h": 810,
+       "type": 48,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247hebb8t48.jpg",
+       "w": 1440
+      },
+      "49": {
+       "h": 80,
+       "type": 49,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h6154t49.jpg",
+       "w": 0
+      },
+      "52": {
+       "h": 16,
+       "type": 52,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h65b8t52.jpg",
+       "w": 32
+      },
+      "6": {
+       "h": 500,
+       "type": 6,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h3871t6.jpg",
+       "w": 800
+      },
+      "60": {
+       "h": 270,
+       "type": 60,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247hde8ct60.jpg",
+       "w": 180
+      },
+      "61": {
+       "h": 432,
+       "type": 61,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247heb3ft61.jpg",
+       "w": 768
+      },
+      "62": {
+       "h": 1030,
+       "type": 62,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h92dft62.jpg",
+       "w": 1648
+      },
+      "64": {
+       "h": 515,
+       "type": 64,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h5375t64.jpg",
+       "w": 824
+      },
+      "65": {
+       "h": 370,
+       "type": 65,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h1910t65.jpg",
+       "w": 592
+      },
+      "66": {
+       "h": 185,
+       "type": 66,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h2185t66.jpg",
+       "w": 296
+      },
+      "67": {
+       "h": 168,
+       "type": 67,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247hc73at67.jpg",
+       "w": 168
+      },
+      "68": {
+       "h": 84,
+       "type": 68,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h2448t68.jpg",
+       "w": 84
+      },
+      "69": {
+       "h": 980,
+       "type": 69,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247hb2c3t69.jpg",
+       "w": 1568
+      },
+      "70": {
+       "h": 490,
+       "type": 70,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h0036t70.jpg",
+       "w": 784
+      },
+      "71": {
+       "h": 1270,
+       "type": 71,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h974dt71.jpg",
+       "w": 2032
+      },
+      "72": {
+       "h": 635,
+       "type": 72,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h8161t72.jpg",
+       "w": 1016
+      },
+      "8": {
+       "h": 250,
+       "type": 8,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h0f2at8.jpg",
+       "w": 400
+      },
+      "80": {
+       "h": 600,
+       "type": 80,
+       "url": "https://s.err.ee/photo/crop/2026/03/04/3238247h7b99t80.jpg",
+       "w": 400
+      }
+     },
+     "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/04/3238247h8001.jpg",
+     "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/04/3238247h8001.jpg",
+     "type": 1,
+     "version": 0
+    }
+   ],
+   "vodSiteContent": "video",
+   "vodSiteDomain": "jupiter.err.ee",
+   "vodSiteUrl": "https://jupiter.err.ee/1610094335/meie-bingo",
+   "year": "0"
+  },
+  "pageType": "series",
+  "seasonList": {
+   "contentOrder": "desc",
+   "items": [
+    {
+     "active": true,
+     "firstContentId": 1610094335,
+     "id": 2026,
+     "items": [
+      {
+       "active": true,
+       "contents": [
+        {
+         "active": true,
+         "anotherDomainContent": true,
+         "canonicalUrl": "https://jupiter.err.ee/1610094335",
+         "catchupDays": 99998,
+         "episode": 28,
+         "fancyUrl": "meie-bingo",
+         "heading": "MEIE BINGO!",
+         "horizontalPhotos": [
+          {
+           "authorEn": "",
+           "authorEt": "Ken Mürk/ERR",
+           "authorRu": "",
+           "captionEn": "",
+           "captionEt": "MEIE BINGO!",
+           "captionRu": "",
+           "created": 1772607009,
+           "format": "jpg",
+           "id": 3236864,
+           "ord": 0,
+           "photoTypes": {
+            "34": {
+             "h": 182,
+             "type": 34,
+             "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hb8aet34.jpg",
+             "w": 324
+            },
+            "50": {
+             "h": 75,
+             "type": 50,
+             "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hf2fat50.jpg",
+             "w": 120
+            }
+           },
+           "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/04/3236864h4cf7.jpg",
+           "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/04/3236864h4cf7.jpg",
+           "type": 0,
+           "version": 1
+          }
+         ],
+         "id": 1610094335,
+         "parentContentPath": "[1609946422]",
+         "photos": [
+          {
+           "authorEn": "",
+           "authorEt": "Ken Mürk/ERR",
+           "authorRu": "",
+           "captionEn": "",
+           "captionEt": "MEIE BINGO!",
+           "captionRu": "",
+           "created": 1772607009,
+           "format": "jpg",
+           "id": 3236864,
+           "ord": 0,
+           "photoTypes": {
+            "34": {
+             "h": 182,
+             "type": 34,
+             "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hb8aet34.jpg",
+             "w": 324
+            },
+            "50": {
+             "h": 75,
+             "type": 50,
+             "url": "https://s.err.ee/photo/crop/2026/03/04/3236864hf2fat50.jpg",
+             "w": 120
+            }
+           },
+           "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/04/3236864h4cf7.jpg",
+           "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/04/3236864h4cf7.jpg",
+           "type": 0,
+           "version": 1
+          }
+         ],
+         "primaryCategory": {
+          "allowContentPhoto": 1,
+          "analyticsId": "UA-21111330-48",
+          "backgroundPhotoId": null,
+          "color": "#000000",
+          "commenting": 2,
+          "contentVisible": 0,
+          "coverPhotoId": null,
+          "coverPhotoUrl": null,
+          "depth": 1,
+          "disableScanpix": 0,
+          "domain": "jupiter.err.ee",
+          "domainType": "vod",
+          "eMail": "",
+          "fullCoverPhoto": null,
+          "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+          "host": null,
+          "id": 2864,
+          "idec": "000000",
+          "isPodcast": 0,
+          "lang": "1",
+          "lead": "",
+          "lft": 2730,
+          "musicStyle": 1,
+          "name": "ETV2 saated",
+          "newsSiteUrl": "",
+          "parentId": 3905,
+          "passive": 0,
+          "photoId": "2350764",
+          "postToSocialmedia": 0,
+          "radiomanId": "",
+          "relativePath": "Jupiter > ETV2 saated",
+          "rgt": 2731,
+          "rootCategoryId": 2864,
+          "slogan": null,
+          "springId": null,
+          "type": 1,
+          "url": "etv2-kategooriata-saated"
+         },
+         "primaryCategoryId": 2864,
+         "publicStart": 1785324601,
+         "rootCategoryId": 3905,
+         "scheduleStart": 1788976800,
+         "season": 1,
+         "squarePhotos": [],
+         "subHeading": "",
+         "type": "episode",
+         "updated": 1789106401,
+         "url": "https://jupiter.err.ee/1610094335/meie-bingo",
+         "verticalPhotos": []
+        },
+        {
+         "anotherDomainContent": true,
+         "canonicalUrl": "https://jupiter.err.ee/1610094332",
+         "catchupDays": 99991,
+         "episode": 27,
+         "fancyUrl": "meie-bingo",
+         "heading": "MEIE BINGO!",
+         "horizontalPhotos": [
+          {
+           "authorEn": "",
+           "authorEt": "Ken Mürk/ERR",
+           "authorRu": "",
+           "captionEn": "",
+           "captionEt": "MEIE BINGO!",
+           "captionRu": "",
+           "created": 1772607009,
+           "format": "jpg",
+           "id": 3236876,
+           "ord": 0,
+           "photoTypes": {
+            "34": {
+             "h": 182,
+             "type": 34,
+             "url": "https://s.err.ee/photo/crop/2026/03/04/3236876h1182t34.jpg",
+             "w": 324
+            },
+            "50": {
+             "h": 75,
+             "type": 50,
+             "url": "https://s.err.ee/photo/crop/2026/03/04/3236876h3891t50.jpg",
+             "w": 120
+            }
+           },
+           "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/04/3236876hfe9a.jpg",
+           "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/04/3236876hfe9a.jpg",
+           "type": 0,
+           "version": 1
+          }
+         ],
+         "id": 1610094332,
+         "parentContentPath": "[1609946422]",
+         "photos": [
+          {
+           "authorEn": "",
+           "authorEt": "Ken Mürk/ERR",
+           "authorRu": "",
+           "captionEn": "",
+           "captionEt": "MEIE BINGO!",
+           "captionRu": "",
+           "created": 1772607009,
+           "format": "jpg",
+           "id": 3236876,
+           "ord": 0,
+           "photoTypes": {
+            "34": {
+             "h": 182,
+             "type": 34,
+             "url": "https://s.err.ee/photo/crop/2026/03/04/3236876h1182t34.jpg",
+             "w": 324
+            },
+            "50": {
+             "h": 75,
+             "type": 50,
+             "url": "https://s.err.ee/photo/crop/2026/03/04/3236876h3891t50.jpg",
+             "w": 120
+            }
+           },
+           "photoUrlBase": "https://s.err.ee/photo/crop/2026/03/04/3236876hfe9a.jpg",
+           "photoUrlOriginal": "https://s.err.ee/photo/orig/2026/03/04/3236876hfe9a.jpg",
+           "type": 0,
+           "version": 1
+          }
+         ],
+         "primaryCategory": {
+          "allowContentPhoto": 1,
+          "analyticsId": "UA-21111330-48",
+          "backgroundPhotoId": null,
+          "color": "#000000",
+          "commenting": 2,
+          "contentVisible": 0,
+          "coverPhotoId": null,
+          "coverPhotoUrl": null,
+          "depth": 1,
+          "disableScanpix": 0,
+          "domain": "jupiter.err.ee",
+          "domainType": "vod",
+          "eMail": "",
+          "fullCoverPhoto": null,
+          "gemiusId": ".A5Kf7vXj9LhxLlNQG7yzLdMj1M8wwOK7WetMxuDSTH.y7",
+          "host": null,
+          "id": 2864,
+          "idec": "000000",
+          "isPodcast": 0,
+          "lang": "1",
+          "lead": "",
+          "lft": 2730,
+          "musicStyle": 1,
+          "name": "ETV2 saated",
+          "newsSiteUrl": "",
+          "parentId": 3905,
+          "passive": 0,
+          "photoId": "2350764",
+          "postToSocialmedia": 0,
+          "radiomanId": "",
+          "relativePath": "Jupiter > ETV2 saated",
+          "rgt": 2731,
+          "rootCategoryId": 2864,
+          "slogan": null,
+          "springId": null,
+          "type": 1,
+          "url": "etv2-kategooriata-saated"
+         },
+         "primaryCategoryId": 2864,
+         "publicStart": 1785324601,
+         "rootCategoryId": 3905,
+         "scheduleStart": 1788373800,
+         "season": 1,
+         "squarePhotos": [],
+         "subHeading": "",
+         "type": "episode",
+         "updated": 1788501602,
+         "url": "https://jupiter.err.ee/1610094332/meie-bingo",
+         "verticalPhotos": []
+        }
+       ],
+       "firstContentId": 1610094335,
+       "id": 9,
+       "name": "september",
+       "url": "/1610094335/meie-bingo"
+      },
+      {
+       "contents": [],
+       "firstContentId": 1610094329,
+       "id": 8,
+       "name": "august",
+       "url": "/1610094329/meie-bingo"
+      },
+      {
+       "contents": [],
+       "firstContentId": 1610079122,
+       "id": 7,
+       "name": "juuli",
+       "url": "/1610079122/meie-bingo"
+      }
+     ],
+     "name": "2026",
+     "url": "/1610094335/meie-bingo"
+    }
+   ],
+   "type": "monthly"
+  }
+ }
+}
