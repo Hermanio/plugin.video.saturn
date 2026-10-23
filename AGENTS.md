@@ -47,7 +47,8 @@ Kodi calls `addon.py` for every `plugin://` request; it does nothing but call
 | `router.py` | URL dispatch; `Router.ACTIONS` is the route table |
 
 Outside the add-on: `tests/` (every level behind `run-tests.sh`), `tools/`
-(fixture recorder and survey; not shipped).
+(fixture recorder and survey) and `docs/screenshots/` (the README's); none
+of them ship.
 
 ## Code style
 
