@@ -1,6 +1,8 @@
-# Saturn
+# Saturn - unofficial ERR Jupiter Kodi addon
 
-**A Kodi add-on for watching and listening to ERR Jupiter.**
+*Mitteametlik Kodi lisa ERR Jupiteri vaatamiseks ja kuulamiseks.*
+
+![Saturn listing ERR's drama series in Kodi, with the selected title's poster](docs/screenshots/drama.jpg)
 
 > **Unofficial.** Not affiliated with, endorsed by or supported by Eesti
 > Rahvusringhääling. It uses the same public API as the jupiter.err.ee
@@ -12,8 +14,6 @@ Public Broadcasting: films, series, documentaries, sport, children's
 programmes, radio and radio theatre, plus live TV and radio. Saturn puts
 it in Kodi, so it can be browsed and played with a remote instead of a
 browser.
-
-*Mitteametlik Kodi lisa ERR Jupiteri vaatamiseks ja kuulamiseks.*
 
 ## What it does
 
@@ -42,6 +42,24 @@ for any unavailable stream.
 Saturn does not sign in to an ERR account (no watch history, favourites,
 *Jätka* or recommendations), download anything, or add titles to Kodi's
 library.
+
+## Screenshots
+
+Saturn among Kodi's add-ons, under both video and music:
+
+![Kodi's add-on screen with Saturn under video add-ons and music add-ons](docs/screenshots/addons.jpg)
+
+Live TV, with each channel's schedule one row below:
+
+![Saturn's live TV menu: ETV, ETV2, ETV+ and Schedule](docs/screenshots/live-tv.jpg)
+
+Cartoons, A–Z in Estonian order:
+
+![Saturn listing cartoons with the selected title's poster](docs/screenshots/kids.jpg)
+
+An episode playing, titled with its season and episode:
+
+![Kodi playing an episode of Numbriklotsid through Saturn](docs/screenshots/playback.jpg)
 
 ## How it works
 
