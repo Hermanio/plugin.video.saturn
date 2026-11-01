@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
 # SPDX-License-Identifier: GPL-3.0-or-later
+import json
 import os
+import time
 
 import xbmc
 import xbmcaddon
 import xbmcgui
+import xbmcvfs
 
 ADDON = xbmcaddon.Addon()
 ADDON_ID = ADDON.getAddonInfo('id')
@@ -29,6 +32,49 @@ def debug(message):
 
 def error(message):
     log(message, xbmc.LOGERROR)
+
+
+def _cache_path(name):
+    profile = xbmcvfs.translatePath(ADDON.getAddonInfo('profile'))
+    return os.path.join(profile, 'cache', name + '.json')
+
+
+def prune_cache(max_age):
+    folder = os.path.dirname(_cache_path(''))
+    try:
+        names = os.listdir(folder)
+    except OSError:
+        return
+    for name in names:
+        path = os.path.join(folder, name)
+        try:
+            if time.time() - os.path.getmtime(path) > max_age:
+                os.remove(path)
+        except OSError:
+            continue
+
+
+def load_cached(name, max_age):
+    path = _cache_path(name)
+    try:
+        if time.time() - os.path.getmtime(path) > max_age:
+            return None
+        with open(path, encoding='utf-8') as handle:
+            return json.load(handle)
+    except (OSError, ValueError):
+        return None
+
+
+def save_cached(name, value):
+    path = _cache_path(name)
+    try:
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        partial = '%s.%d.tmp' % (path, os.getpid())
+        with open(partial, 'w', encoding='utf-8') as handle:
+            json.dump(value, handle)
+        os.replace(partial, path)
+    except OSError as exc:
+        error('could not cache %s: %s' % (name, exc))
 
 
 def localize(string_id, default=''):

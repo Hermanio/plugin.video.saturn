@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # SPDX-License-Identifier: GPL-3.0-or-later
 import datetime
+from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import parse_qsl
 
 import xbmcgui
@@ -102,12 +103,12 @@ class Router:
                                               playable=playable)
         self.items.append((url, list_item, is_folder))
 
-    def finish(self, content_type, category=None):
+    def finish(self, content_type, category=None, sortable=True):
         xbmcplugin.addDirectoryItems(self.handle, self.items, len(self.items))
         if category:
             xbmcplugin.setPluginCategory(self.handle, category)
         xbmcplugin.setContent(self.handle, content_type)
-        for method in SORT_METHODS.get(content_type, ()):
+        for method in SORT_METHODS.get(content_type, ()) if sortable else ():
             xbmcplugin.addSortMethod(self.handle, method,
                                      labelMask=SATURNS_OWN_LABEL)
         xbmcplugin.endOfDirectory(self.handle)
@@ -400,12 +401,17 @@ class Router:
     def live(self):
         kind = self.params.get('kind', 'tv')
         art = self._menu_art(C.MENU_ICONS[kind])
-        for name, label in C.LIVE_CHANNELS[kind]:
+        channels = C.LIVE_CHANNELS[kind]
+        guides = self._guides([name for name, _label in channels], kind)
+        for name, label in channels:
+            metadata = {'title': label, 'studio': 'ERR',
+                        'mediatype': 'episode'}
+            if guides[name]:
+                metadata['plot'] = guides[name]
             self.add_item(label,
                           self.url(action='playlive', channel=name,
                                    label=label, kind=kind),
-                          False, art,
-                          {'title': label, 'studio': 'ERR'}, playable=True)
+                          False, art, metadata, playable=True)
         self.add_item(ku.localize(30016, 'Schedule'),
                       self.url(action='epgchannels', kind=kind), True,
                       self._menu_art(C.MENU_ICONS['schedule']))
@@ -413,7 +419,8 @@ class Router:
             self.add_item(ku.localize(30022, 'Programmes'),
                           self.url(action='radiostations'), True,
                           self._menu_art(C.MENU_ICONS['programmes']))
-        self.finish(CONTENT_FILES, category=ku.localize(30015, 'Live'))
+        self.finish(CONTENT_EPISODES, category=ku.localize(30015, 'Live'),
+                    sortable=False)
 
     def radio_stations(self):
         art = self._menu_art(C.MENU_ICONS['programmes'])
@@ -501,19 +508,52 @@ class Router:
         playqueue.resolve_live(self.handle, label, payload)
 
     def _current_programme(self, channel, kind):
+        current = schedule_mod.current_programme(
+            self._programmes(channel, kind, self._broadcast_days()))
+        return current if current and current.get('title') else None
+
+    def _guides(self, channels, kind):
+        ku.prune_cache(C.SCHEDULE_CACHE_SECONDS)
+        with ThreadPoolExecutor(max_workers=len(channels)) as pool:
+            guides = pool.map(lambda name: self._guide(name, kind), channels)
+            return dict(zip(channels, guides))
+
+    def _guide(self, channel, kind):
+        days = self._broadcast_days()
+        programmes = self._programmes(channel, kind, days)
+        if len(schedule_mod.upcoming(programmes)) < C.GUIDE_LENGTH:
+            tomorrow = days[0] + datetime.timedelta(days=1)
+            programmes += self._programmes(channel, kind, [tomorrow])
+        return schedule_mod.guide(programmes)
+
+    @staticmethod
+    def _broadcast_days():
         now = datetime.datetime.now()
         days = [now.date()]
-        if now.hour < 6:
+        if now.hour < C.BROADCAST_DAY_STARTS_HOUR:
             days.append(now.date() - datetime.timedelta(days=1))
+        return days
+
+    def _programmes(self, channel, kind, days):
         programmes = []
         for day in days:
-            try:
-                programmes.extend(schedule_mod.parse_schedule(
-                    self.api.get_schedule(channel, day, kind=kind)))
-            except ApiError:
-                continue
-        current = schedule_mod.current_programme(programmes)
-        return current if current and current.get('title') else None
+            programmes.extend(self._day_schedule(channel, kind, day))
+        return programmes
+
+    def _day_schedule(self, channel, kind, day):
+        name = 'schedule-%s-%s-%s' % (kind, channel, day.isoformat())
+        cached = ku.load_cached(name, C.SCHEDULE_CACHE_SECONDS)
+        if cached is not None:
+            return cached
+        try:
+            programmes = schedule_mod.parse_schedule(
+                self.api.get_schedule(channel, day, kind=kind))
+        except ApiError as exc:
+            ku.debug('schedule %s %s: %s' % (channel, day, exc))
+            return []
+        if programmes:
+            ku.save_cached(name, programmes)
+        return programmes
 
     ACTIONS = {
         '': 'root',

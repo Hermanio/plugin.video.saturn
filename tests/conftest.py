@@ -44,6 +44,14 @@ def movie(movie_fixture):
 
 
 @pytest.fixture(autouse=True)
+def addon_profile(tmp_path):
+    import xbmcaddon
+    xbmcaddon.INFO['profile'] = str(tmp_path / 'profile')
+    yield
+    xbmcaddon.INFO.pop('profile', None)
+
+
+@pytest.fixture(autouse=True)
 def clean_kodi_state():
     import xbmcgui
     import xbmcplugin

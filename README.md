@@ -28,8 +28,10 @@ browser.
 - **Series in watching order**: seasons and episodes oldest first, and an
   **All seasons** row that plays a whole series through.
 - **Search** across video, audio and Lasteekraan at once.
-- **Live TV and radio**: ETV, ETV2, ETV+ and the five ERR radio stations, with
-  each channel's schedule and **catch-up** of programmes that have aired.
+- **Live TV and radio**: ETV, ETV2, ETV+ and the five ERR radio stations, each
+  with a **guide** in its description (what is on now in bold, then what
+  follows), the channel's schedule, and **catch-up** of programmes that have
+  aired.
 - **Radio programmes A–Z** for each station, about 700 in all.
 - **DRM titles** through Widevine, and subtitles.
 - Posters, plots, air dates, cast, director and writer.
