@@ -64,13 +64,13 @@ def _day(*rows):
             for start, end, title in rows]
 
 
-def test_a_channels_guide_leads_with_what_is_on_now_in_bold():
+def test_a_channels_guide_leads_with_what_is_on_now_in_bold_orange():
     programmes = _day((0, 100, 'Over'), (100, 200, 'On now'),
                       (200, 300, 'Next'))
     lines = schedule.guide(programmes, now=150).split('\n')
     assert len(lines) == 2
-    assert lines[0].startswith('[B]') and lines[0].endswith(
-        ' - On now[/B]')
+    assert lines[0].startswith('[B][COLOR orange]') and lines[0].endswith(
+        ' - On now[/COLOR][/B]')
     assert lines[1] == '%s - Next' % schedule.programme_clock(
         programmes[2])
 
@@ -91,6 +91,21 @@ def test_a_guide_stops_after_a_dozen_programmes():
     day = _day(*[(i * 10, i * 10 + 10, 'P%d' % i) for i in range(30)])
     assert len(schedule.guide(day, now=5).split('\n')) == \
         C.GUIDE_LENGTH == 12
+
+
+def test_a_channel_is_named_with_what_is_on_now_in_orange():
+    programmes = _day((0, 100, 'Over'), (100, 200, 'On now'),
+                      (200, 300, 'Next'))
+    showing = schedule.on_now(programmes, now=150)
+    assert schedule.channel_title('ETV', showing) == \
+        'ETV    [COLOR orange]On now[/COLOR]'
+
+
+def test_a_channel_between_programmes_keeps_its_plain_name():
+    showing = schedule.on_now(_day((0, 100, 'Over'), (200, 300, 'Next')),
+                              now=150)
+    assert showing == ''
+    assert schedule.channel_title('ETV', showing) == 'ETV'
 
 
 def test_an_empty_schedule_has_no_guide():

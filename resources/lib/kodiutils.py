@@ -111,6 +111,10 @@ INFO_SETTERS = (
 )
 
 
+def withhold_stored_stream_details(list_item):
+    list_item.getVideoInfoTag().addVideoStream(xbmc.VideoStreamDetail())
+
+
 def apply_info(list_item, metadata):
     tag = list_item.getVideoInfoTag()
     for key, setter, is_list in INFO_SETTERS:

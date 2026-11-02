@@ -18,6 +18,12 @@ class Actor:
         return self._name
 
 
+class VideoStreamDetail:
+    def __init__(self, width=0, height=0, aspect=0.0, duration=0, codec='',
+                 stereomode='', language='', hdrtype=''):
+        self.duration = duration
+
+
 def getCondVisibility(condition):
     if condition.startswith('System.HasAddon('):
         return condition[len('System.HasAddon('):-1] in INSTALLED_ADDONS

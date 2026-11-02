@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 import time
 
-from .constants import GUIDE_LENGTH
+from .constants import GUIDE_LENGTH, ON_NOW_COLOUR
 from .helpers import dicts, safe_int, strip_html, timestamp_to_human
 
 
@@ -58,12 +58,30 @@ def upcoming(programmes, now=None):
     return ahead[:GUIDE_LENGTH]
 
 
+def on_now(programmes, now=None):
+    now = time.time() if now is None else now
+    ahead = upcoming(programmes, now)
+    if ahead and ahead[0]['start'] <= now:
+        return programme_title(ahead[0])
+    return ''
+
+
+def highlighted(text):
+    return '[COLOR %s]%s[/COLOR]' % (ON_NOW_COLOUR, text)
+
+
+def channel_title(channel, showing):
+    if not showing:
+        return channel
+    return '%s    %s' % (channel, highlighted(showing))
+
+
 def guide(programmes, now=None):
     now = time.time() if now is None else now
     lines = []
     for programme in upcoming(programmes, now):
         line = '%s - %s' % (programme_clock(programme),
                             programme_title(programme))
-        lines.append('[B]%s[/B]' % line if programme['start'] <= now
-                     else line)
+        lines.append('[B]%s[/B]' % highlighted(line)
+                     if programme['start'] <= now else line)
     return '\n'.join(lines)

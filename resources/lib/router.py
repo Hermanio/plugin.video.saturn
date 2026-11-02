@@ -98,9 +98,9 @@ class Router:
                          content_id, self._root_id_for_section(self.section))
 
     def add_item(self, label, url, is_folder, art=None, metadata=None,
-                 playable=False):
+                 playable=False, live=False):
         list_item = playqueue.build_list_item(label, art, metadata,
-                                              playable=playable)
+                                              playable=playable, live=live)
         self.items.append((url, list_item, is_folder))
 
     def finish(self, content_type, category=None, sortable=True):
@@ -404,14 +404,15 @@ class Router:
         channels = C.LIVE_CHANNELS[kind]
         guides = self._guides([name for name, _label in channels], kind)
         for name, label in channels:
-            metadata = {'title': label, 'studio': 'ERR',
-                        'mediatype': 'episode'}
-            if guides[name]:
-                metadata['plot'] = guides[name]
-            self.add_item(label,
+            showing, guide = guides[name]
+            title = schedule_mod.channel_title(label, showing)
+            metadata = {'title': title, 'mediatype': 'episode'}
+            if guide:
+                metadata['plot'] = guide
+            self.add_item(title,
                           self.url(action='playlive', channel=name,
                                    label=label, kind=kind),
-                          False, art, metadata, playable=True)
+                          False, art, metadata, playable=True, live=True)
         self.add_item(ku.localize(30016, 'Schedule'),
                       self.url(action='epgchannels', kind=kind), True,
                       self._menu_art(C.MENU_ICONS['schedule']))
@@ -524,7 +525,8 @@ class Router:
         if len(schedule_mod.upcoming(programmes)) < C.GUIDE_LENGTH:
             tomorrow = days[0] + datetime.timedelta(days=1)
             programmes += self._programmes(channel, kind, [tomorrow])
-        return schedule_mod.guide(programmes)
+        return (schedule_mod.on_now(programmes),
+                schedule_mod.guide(programmes))
 
     @staticmethod
     def _broadcast_days():

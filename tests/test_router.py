@@ -609,7 +609,7 @@ def _evening(*titles):
 
 
 def _channel_plots():
-    return {entry['listitem'].label:
+    return {params_of(entry['url'])['label']:
             entry['listitem'].getVideoInfoTag().info.get('plot')
             for entry in xbmcplugin.DIRECTORY
             if 'action=playlive' in entry['url']}
@@ -622,7 +622,8 @@ def test_live_tv_shows_each_channels_guide_beside_it(fake_api):
     assert list(plots) == ['ETV', 'ETV2', 'ETV+']
     for plot in plots.values():
         on_now, up_next = plot.split('\n')[:2]
-        assert on_now.startswith('[B]') and 'Ringvaade' in on_now
+        assert on_now.startswith('[B][COLOR orange]') and \
+            'Ringvaade' in on_now
         assert up_next.endswith(' - Armukelm')
     assert xbmcplugin.STATE['content'] == 'episodes', \
         'skins hide the plot panel of a files listing'
@@ -630,6 +631,31 @@ def test_live_tv_shows_each_channels_guide_beside_it(fake_api):
         if 'action=playlive' in entry['url']:
             assert entry['listitem'].getVideoInfoTag().info['mediatype'] == \
                 'episode', 'home widgets show a plot for typed items only'
+
+
+def test_live_tv_names_what_is_on_beside_each_channel_like_iplayer(
+        fake_api):
+    route(fake_api, {'action': 'live', 'kind': 'tv'},
+          schedule=_evening('Ringvaade', 'Armukelm'))
+    for entry in xbmcplugin.DIRECTORY:
+        if 'action=playlive' in entry['url']:
+            channel = params_of(entry['url'])['label']
+            title = '%s    [COLOR orange]Ringvaade[/COLOR]' % channel
+            assert entry['listitem'].label == title
+            assert entry['listitem'].getVideoInfoTag().info['title'] == \
+                title, 'skins draw a widget item from its title'
+
+
+def test_live_channels_show_no_runtime_or_network_beside_the_guide(
+        fake_api):
+    route(fake_api, {'action': 'live', 'kind': 'tv'},
+          schedule=_evening('Ringvaade'))
+    for entry in xbmcplugin.DIRECTORY:
+        if 'action=playlive' in entry['url']:
+            tag = entry['listitem'].getVideoInfoTag()
+            assert 'studio' not in tag.info and 'duration' not in tag.info
+            assert tag.video_streams == [{'duration': 0}], \
+                'Kodi fills a played channel with its stored 2h duration'
 
 
 def test_live_radio_guides_come_from_the_radio_schedule(fake_api):
@@ -649,6 +675,9 @@ def test_live_tv_lists_its_channels_without_a_guide_when_err_is_down(
     instance.api.get_schedule = raising(ApiError('schedule down'))
     instance.dispatch()
     assert _channel_plots() == {'ETV': None, 'ETV2': None, 'ETV+': None}
+    assert [label for label in labels() if label in ('ETV', 'ETV2',
+                                                     'ETV+')] == \
+        ['ETV', 'ETV2', 'ETV+']
     assert not xbmcgui.NOTIFICATIONS
 
 
