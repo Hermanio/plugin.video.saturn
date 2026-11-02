@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
+from resources.lib import constants as C
 from resources.lib import content, schedule
 from resources.lib.helpers import absolutize
 
@@ -56,3 +57,57 @@ def test_the_programme_on_now_is_found_with_an_exclusive_end():
             title
     assert schedule.current_programme(programmes, now=50) is None
     assert schedule.current_programme([], now=1) is None
+
+
+def _day(*rows):
+    return [{'start': start, 'end': end, 'title': title, 'series': ''}
+            for start, end, title in rows]
+
+
+def test_a_channels_guide_leads_with_what_is_on_now_in_bold_orange():
+    programmes = _day((0, 100, 'Over'), (100, 200, 'On now'),
+                      (200, 300, 'Next'))
+    lines = schedule.guide(programmes, now=150).split('\n')
+    assert len(lines) == 2
+    assert lines[0].startswith('[B][COLOR orange]') and lines[0].endswith(
+        ' - On now[/COLOR][/B]')
+    assert lines[1] == '%s - Next' % schedule.programme_clock(
+        programmes[2])
+
+
+def test_a_guide_between_programmes_has_nothing_in_bold():
+    guide = schedule.guide(_day((0, 100, 'Over'), (200, 300, 'Next')),
+                           now=150)
+    assert guide.endswith(' - Next') and '[B]' not in guide
+
+
+def test_a_guide_lists_a_programme_once_when_two_days_overlap():
+    night = _day((100, 200, 'Late film'), (200, 300, 'News'))
+    guide = schedule.guide(night + night[1:], now=150)
+    assert guide.count('News') == 1
+
+
+def test_a_guide_stops_after_a_dozen_programmes():
+    day = _day(*[(i * 10, i * 10 + 10, 'P%d' % i) for i in range(30)])
+    assert len(schedule.guide(day, now=5).split('\n')) == \
+        C.GUIDE_LENGTH == 12
+
+
+def test_a_channel_is_named_with_what_is_on_now_in_orange():
+    programmes = _day((0, 100, 'Over'), (100, 200, 'On now'),
+                      (200, 300, 'Next'))
+    showing = schedule.on_now(programmes, now=150)
+    assert schedule.channel_title('ETV', showing) == \
+        'ETV    [COLOR orange]On now[/COLOR]'
+
+
+def test_a_channel_between_programmes_keeps_its_plain_name():
+    showing = schedule.on_now(_day((0, 100, 'Over'), (200, 300, 'Next')),
+                              now=150)
+    assert showing == ''
+    assert schedule.channel_title('ETV', showing) == 'ETV'
+
+
+def test_an_empty_schedule_has_no_guide():
+    assert schedule.guide([], now=1) == ''
+    assert schedule.guide(_day((0, 100, 'Over')), now=150) == ''

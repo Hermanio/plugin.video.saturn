@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
+import datetime
 import json
 import os
 import time
@@ -598,6 +599,126 @@ def test_live_tv_lists_the_channels_and_the_schedule(fake_api):
         assert entry['listitem'].getProperty('IsPlayable') == 'true'
     assert find_entry('action=epgchannels')['is_folder'] is True
     assert find_entry('action=radiostations') is None
+
+
+def _evening(*titles):
+    now = int(time.time())
+    return [{'startTime': now - 60 + index * 600,
+             'endTime': now + 540 + index * 600, 'name': title}
+            for index, title in enumerate(titles)]
+
+
+def _channel_plots():
+    return {params_of(entry['url'])['label']:
+            entry['listitem'].getVideoInfoTag().info.get('plot')
+            for entry in xbmcplugin.DIRECTORY
+            if 'action=playlive' in entry['url']}
+
+
+def test_live_tv_shows_each_channels_guide_beside_it(fake_api):
+    route(fake_api, {'action': 'live', 'kind': 'tv'},
+          schedule=_evening('Ringvaade', 'Armukelm'))
+    plots = _channel_plots()
+    assert list(plots) == ['ETV', 'ETV2', 'ETV+']
+    for plot in plots.values():
+        on_now, up_next = plot.split('\n')[:2]
+        assert on_now.startswith('[B][COLOR orange]') and \
+            'Ringvaade' in on_now
+        assert up_next.endswith(' - Armukelm')
+    assert xbmcplugin.STATE['content'] == 'episodes', \
+        'skins hide the plot panel of a files listing'
+    for entry in xbmcplugin.DIRECTORY:
+        if 'action=playlive' in entry['url']:
+            assert entry['listitem'].getVideoInfoTag().info['mediatype'] == \
+                'episode', 'home widgets show a plot for typed items only'
+
+
+def test_live_tv_names_what_is_on_beside_each_channel_like_iplayer(
+        fake_api):
+    route(fake_api, {'action': 'live', 'kind': 'tv'},
+          schedule=_evening('Ringvaade', 'Armukelm'))
+    for entry in xbmcplugin.DIRECTORY:
+        if 'action=playlive' in entry['url']:
+            channel = params_of(entry['url'])['label']
+            title = '%s    [COLOR orange]Ringvaade[/COLOR]' % channel
+            assert entry['listitem'].label == title
+            assert entry['listitem'].getVideoInfoTag().info['title'] == \
+                title, 'skins draw a widget item from its title'
+
+
+def test_live_channels_show_no_runtime_or_network_beside_the_guide(
+        fake_api):
+    route(fake_api, {'action': 'live', 'kind': 'tv'},
+          schedule=_evening('Ringvaade'))
+    for entry in xbmcplugin.DIRECTORY:
+        if 'action=playlive' in entry['url']:
+            tag = entry['listitem'].getVideoInfoTag()
+            assert 'studio' not in tag.info and 'duration' not in tag.info
+            assert tag.video_streams == [{'duration': 0}], \
+                'Kodi fills a played channel with its stored 2h duration'
+
+
+def test_live_radio_guides_come_from_the_radio_schedule(fake_api):
+    instance = route(fake_api, {'action': 'live', 'kind': 'radio'},
+                     schedule=_evening('Uudised'))
+    assert all('Uudised' in plot for plot in _channel_plots().values())
+    asked = {(call[1], call[3]) for call in instance.api.calls
+             if call[0] == 'schedule'}
+    assert {channel for channel, _kind in asked} == \
+        {name for name, _label in C.LIVE_RADIO}
+    assert {kind for _channel, kind in asked} == {'radio'}
+
+
+def test_live_tv_lists_its_channels_without_a_guide_when_err_is_down(
+        fake_api):
+    instance = make_router(fake_api, {'action': 'live', 'kind': 'tv'})
+    instance.api.get_schedule = raising(ApiError('schedule down'))
+    instance.dispatch()
+    assert _channel_plots() == {'ETV': None, 'ETV2': None, 'ETV+': None}
+    assert [label for label in labels() if label in ('ETV', 'ETV2',
+                                                     'ETV+')] == \
+        ['ETV', 'ETV2', 'ETV+']
+    assert not xbmcgui.NOTIFICATIONS
+
+
+def test_reopening_live_tv_reuses_the_guide_it_already_fetched(fake_api):
+    route(fake_api, {'action': 'live', 'kind': 'tv'},
+          schedule=_evening('Ringvaade'))
+    xbmcplugin.reset()
+    again = route(fake_api, {'action': 'live', 'kind': 'tv'})
+    assert not [call for call in again.api.calls if call[0] == 'schedule']
+    assert all('Ringvaade' in plot for plot in _channel_plots().values())
+
+
+def test_a_failed_schedule_is_asked_for_again_next_time(fake_api):
+    route(fake_api, {'action': 'live', 'kind': 'tv'})
+    xbmcplugin.reset()
+    route(fake_api, {'action': 'live', 'kind': 'tv'},
+          schedule=_evening('Ringvaade'))
+    assert all('Ringvaade' in plot for plot in _channel_plots().values())
+
+
+def test_guides_from_days_gone_by_do_not_pile_up(fake_api):
+    folder = os.path.join(xbmcaddon.INFO['profile'], 'cache')
+    os.makedirs(folder)
+    stale = os.path.join(folder, 'schedule-tv-etv-2026-01-01.json')
+    with open(stale, 'w', encoding='utf-8') as handle:
+        handle.write('[]')
+    long_ago = time.time() - C.SCHEDULE_CACHE_SECONDS - 1
+    os.utime(stale, (long_ago, long_ago))
+    route(fake_api, {'action': 'live', 'kind': 'tv'},
+          schedule=_evening('Ringvaade'))
+    assert not os.path.exists(stale)
+    assert os.listdir(folder)
+
+
+def test_a_short_evening_guide_carries_on_into_tomorrow(fake_api):
+    instance = route(fake_api, {'action': 'live', 'kind': 'tv'},
+                     schedule=_evening('Ringvaade'))
+    days = {call[2] for call in instance.api.calls
+            if call[0] == 'schedule' and call[1] == 'etv'}
+    today = datetime.date.today()
+    assert (today + datetime.timedelta(days=1)).isoformat() in days
 
 
 def test_the_radio_menu_leads_to_every_stations_programmes(fake_api):

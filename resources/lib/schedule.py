@@ -2,6 +2,7 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 import time
 
+from .constants import GUIDE_LENGTH, ON_NOW_COLOUR
 from .helpers import dicts, safe_int, strip_html, timestamp_to_human
 
 
@@ -36,7 +37,51 @@ def is_playable(programme):
     return bool(programme.get('has_media') and programme.get('content_id'))
 
 
+def programme_clock(programme):
+    return timestamp_to_human(programme['start'], '%H:%M')
+
+
+def programme_title(programme):
+    return programme['title'] or programme['series']
+
+
 def programme_label(programme):
-    clock = timestamp_to_human(programme['start'], '%H:%M')
-    title = programme['title'] or programme['series']
-    return ('%s  %s' % (clock, title)).strip()
+    return ('%s  %s' % (programme_clock(programme),
+                        programme_title(programme))).strip()
+
+
+def upcoming(programmes, now=None):
+    now = time.time() if now is None else now
+    by_start = {p['start']: p for p in programmes if programme_title(p)}
+    ahead = [p for start, p in sorted(by_start.items())
+             if (p['end'] or start) > now]
+    return ahead[:GUIDE_LENGTH]
+
+
+def on_now(programmes, now=None):
+    now = time.time() if now is None else now
+    ahead = upcoming(programmes, now)
+    if ahead and ahead[0]['start'] <= now:
+        return programme_title(ahead[0])
+    return ''
+
+
+def highlighted(text):
+    return '[COLOR %s]%s[/COLOR]' % (ON_NOW_COLOUR, text)
+
+
+def channel_title(channel, showing):
+    if not showing:
+        return channel
+    return '%s    %s' % (channel, highlighted(showing))
+
+
+def guide(programmes, now=None):
+    now = time.time() if now is None else now
+    lines = []
+    for programme in upcoming(programmes, now):
+        line = '%s - %s' % (programme_clock(programme),
+                            programme_title(programme))
+        lines.append('[B]%s[/B]' % highlighted(line)
+                     if programme['start'] <= now else line)
+    return '\n'.join(lines)

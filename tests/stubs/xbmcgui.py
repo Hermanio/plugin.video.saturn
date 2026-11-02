@@ -44,6 +44,15 @@ def _accepts(value, types, setter):
 class InfoTagVideo:
     def __init__(self):
         self.info = {}
+        self.video_streams = []
+
+    def addVideoStream(self, stream):
+        import xbmc
+        if not isinstance(stream, xbmc.VideoStreamDetail):
+            REJECTED_INFO.append('addVideoStream(%r): expected '
+                                 'xbmc.VideoStreamDetail' % (stream,))
+            return
+        self.video_streams.append({'duration': stream.duration})
 
     def __getattr__(self, setter):
         if setter not in SETTERS:

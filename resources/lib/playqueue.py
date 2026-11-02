@@ -28,12 +28,15 @@ def reject(handle, message):
     cancel(handle)
 
 
-def build_list_item(label, art=None, metadata=None, playable=False):
+def build_list_item(label, art=None, metadata=None, playable=False,
+                    live=False):
     list_item = xbmcgui.ListItem(label=label, offscreen=True)
     if art:
         list_item.setArt(art)
     if metadata:
         ku.apply_info(list_item, metadata)
+    if live:
+        ku.withhold_stored_stream_details(list_item)
     if playable:
         list_item.setProperty('IsPlayable', 'true')
     return list_item
